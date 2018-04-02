@@ -1,0 +1,1078 @@
+Range,HITF/RHTL #,Shot #,Shot Date,Program,Series,Series Test #,Desired Velocity,Actual Velocity,Delta Velocity,Powder,Lp Mass,Projectile,Projectile Material,Projectile Mass,Barrel,Petal Valve,Accept / Unaccept,Reason If Unaccept ,ES,Sabot Material,Sabot OD,Sabot Depth,Count,Muzzle
+.50 Cal,RHTL 18URO 055B,1932,3/15/2018,URO,Europa Clipper Propulsion Module ,5.1.1.4-3,7,7.06,0.06,163.0000,1.145800,2.60,slg,0.023000,16,10k 304l ss,Acceptable,,#REF!,4 piece lexan rear serrations,0.4940,4.25,1,0.489
+.50 Cal,18014,1931,3/14/2018,ISS,ISS Orbital Cygnus Service Module Shield using Kevlar Plus Style 775,6,5,4.95,-0.05,110.0000,1.855400,6.70,al,0.441200,16,10k 304l ss,Acceptable,,#REF!,4 piece lexan rear serrations,0.4940,5.5,1,0.489
+.50 Cal,18011,1930,3/13/2018,ISS,ISS Orbital Cygnus Service Module Shield using Kevlar Plus Style 775,3,3,2.61,-0.39,67.5000,2.270450,7.54,al,0.626550,16,2k brass,Unacceptable,velocity low,#REF!,4 piece lexan rear serrations,0.4935,6,1,0.489
+.50 Cal,18088,1929,3/13/2018,VIO,MPCV ESM MDPS Mass Reduction HVI Test Program,26,7,6.96,-0.04,167.5000,1.420450,6.99,nylon,0.204150,16,10k 304l ss,Acceptable,,#REF!,4 piece lexan rear serrations,0.4935,5.125,1,0.489
+.50 Cal,18080,1928,3/12/2018,VIO,MPCV ESM MDPS Mass Reduction HVI Test Program,18,7,6.89,-0.11,162.0000,1.147050,3.97,nylon,0.037250,16,10k 304l ss,Acceptable,,#REF!,4 piece lexan rear serrations,0.4935,6,1,0.489
+.50 Cal,18115,1927,3/8/2018,ISS,SNC Dream Chaser TPS HVI Test Program: PNP BL Assessment ,46,7,7.02,0.02,166.8000,1.355130,5.13,nylon,0.080730,16,10k 304l ss,Acceptable,,#REF!,4 piece lexan rear serrations,0.4930,5.25,1,0.489
+.50 Cal,18111,1926,3/8/2018,ISS,SNC Dream Chaser TPS HVI Test Program: PNP BL Assessment ,42,7,6.91,-0.09,158.0000,1.040750,1.59,SS,0.016150,16,10k 304l ss,Acceptable,,#REF!,4 piece lexan rear serrations,0.4930,6.75,1,0.489
+.50 Cal,18082,1925,3/7/2018,VIO,MPCV ESM MDPS Mass Reduction HVI Test Program ,20,7,7.01,0.01,170.2000,1.520060,6.99,nylon,0.204060,16,10k 304l ss,Acceptable,,#REF!,4 piece lexan rear serrations,0.4930,5.75,1,0.489
+.50 Cal,18118,1923,3/6/2018,ISS,SNC Dream Chaser TPS HVI Test Program: PNP BL Assessment ,49,7,7.07,0.07,166.0000,1.368020,3.70,al,0.074120,16,10k 304l ss,Acceptable,,#REF!,4 piece lexan rear serrations,0.4925,7,1,0.489
+.50 Cal,18064,1924,3/6/2018,VIO,MPCV ESM MDPS Mass Reduction HVI Test Program ,2,7,7.07,0.07,165.0000,1.353660,5.47,nylon,0.097860,16,10k 304l ss,Acceptable,,#REF!,4 piece lexan rear serrations,0.4925,6.5,1,0.489
+.50 Cal,18114,1922,3/5/2018,ISS,SNC Dream Chaser TPS HVI Test Program: PNP BL Assessment ,45,7,6.95,-0.05,169.6000,1.571570,6.33,nylon,0.151470,16,10k 304l ss,Acceptable,,#REF!,4 piece lexan rear serrations,0.4925,5,1,0.489
+.50 Cal,18113,1921,3/2/2018,ISS,SNC Dream Chaser TPS HVI Test Program: PNP BL Assessment,44,7,7.15,0.15,159.5000,1.028660,1.72,SS,0.020460,16,10k 304l ss,Acceptable,,#REF!,4 piece lexan rear serration,0.4925,4.25,1,0.489
+.50 Cal,18110,1920,3/1/2018,ISS,SNC Dream Chaser TPS HVI Test Program: PNP BL Assessment,41,7,6.94,-0.06,159.5000,1.038430,1.89,ss,0.027030,16,10k 304l ss,Acceptable,,#REF!,4 piece lexan rear serration,0.4915,6,1,0.489
+.50 Cal,18081,1919,2/28/2018,VIO,MPCV ESM MDPS Mass Reduction HVI Test Program,19,7,7.06,0.06,166.3000,1.349200,5.47,nylon,0.097800,16,10k 304l ss,Acceptable,,#REF!,4 piece lexan rear serration,0.4915,11.25,1,0.489
+.50 Cal,18079,1918,2/27/2018,VIO,MPCV ESM MDPS Mass Reduction HVI Test Program,17,7,6.98,-0.02,166.0000,1.330300,4.78,nylon,0.065100,16,10k 304l ss,Acceptable,,#REF!,4 piece lexan rear serration,0.4910,10,1,0.489
+.50 Cal,RHTL 18URO 116,1917,2/26/2018,URO,Europa Clipper Propulsion Module,5.1.1.3-5,7,6.96,-0.04,170.0000,1.613200,5.00,slg,0.163600,16,10k 304l ss,Acceptable,,#REF!,4 piece lexan rear serration,0.4910,6.5,1,0.489
+.50 Cal,18087,1916,2/23/2018,VIO,MPCV ESM MDPS Mass Reduction HVI Test Program,25,7,7.19,0.19,167.0000,1.339560,5.00,nylon,0.074760,16,10k 304l ss,Acceptable,,#REF!,4 Piece lexan rear serration,0.4910,5.25,1,0.489
+.50 Cal,18108,1915,2/22/2018,ISS,SNC Dream Chaser TPS HVI Test Program: PNP BL Assessment,39,7,6.98,-0.02,174.0000,1.733830,5.97,al,0.312030,16,10k 304l ss,Acceptable,,#REF!,4 piece lexan rear serration,0.4910,5,1,0.489
+.50 Cal,18013,1914,2/21/2018,ISS,ISS Orbital Cygnus Service Module Shield using Kevlar Pluse Style 775,5,5,4.9,-0.10,106.0000,1.550280,5.00,al,0.183980,16,10k 304l ss,Acceptable,,#REF!,4 piece lexan rear serration,0.4895,13,1,0.489
+.50 Cal,18063,1912,2/20/2018,VIO,MPCV ESM MDPS Mass Reduction HVI Test Program,1,7,7.1,0.10,174.0000,1.327360,5.14,nylon,0.080860,16,10k 304l ss,Acceptable,,#REF!,4 piece lexan rear serrations,0.4890,6.25,1,0.489
+.50 Cal,17563,1913,2/20/2018,CCP,SpaceX Dragon 2 HVI Test Program: LOC BL Assessment,102,7,6.83,-0.17,179.0000,1.718180,5.97,al,0.311880,16,10k 304l ss,Acceptable,,#REF!,4 piece lexan rear serration,0.4895,6.25,1,0.489
+.50 Cal,18016,1911,2/14/2018,ISS,ISS Orbital Cygnus Service Module Shield using Kevlar Plus Style 775,8,7,7,0.00,185.0000,1.719100,5.97,al,0.311900,16,10k 304l ss,Acceptable,,#REF!,4 piece lexan rear serrations,0.4890,5.5,1,0.489
+.50 Cal,18010,1910,2/13/2018,ISS,ISS Orbital Cygnus Service Module Shield using Kevlar Plus Style 775,2,3,2.8,-0.20,62.0000,1.586870,4.20,al,0.107970,15,2K,Acceptable,,#REF!,4 piece lexan rear serrations,0.5065,7.375,1,0.4965
+.50 Cal,18015,1909,2/13/2018,ISS,ISS Orbital Cygnus Service Module Shield using Kevlar Plus Style 775,7,7,6.89,-0.11,174.0000,1.700270,5.60,al,0.250970,15,10k 304l ss,Acceptable,,#REF!,4 piece lexan rear serrations,0.5065,7.375,1,0.4965
+.50 Cal,17504-B,1908,2/12/2018,ISS,SNC Dream Chaser TPS HVI Test Program: PNP BL Assessment ,16,7,6.93,-0.07,189.0000,2.040210,9.47,nylon,0.507710,15,10k 304l ss,Acceptable,,#REF!,4 piece lexan rear serrations,0.5060,6.375,1,0.4965
+.50 Cal,17565,1907,2/9/2018,CCP,SpaceX Dragon 2 HVI Test Program: LOC BL Assessment,104,7,6.91,-0.09,199.0000,2.423580,7.30,al,0.569180,15,10k 304l ss,Acceptable,,#REF!,4 piece lexan rear serrations,0.5060,6.5,1,0.4965
+.50 Cal,17562,1906,2/8/2018,CCP,SpaceX Dragon 2 HVI Test Program: LOC BL Assessment,101,7,6.91,-0.09,186.0000,1.968810,6.99,al,0.500410,15,10k 304l ss,Acceptable,,#REF!,4 piece lexan rear serrations,0.5060,6.5,1,0.4965
+.50 Cal,17556,1905,2/7/2018,cpvh,NESC COPV HVI Study: Phase B ,7a,6.82,6.91,0.09,168.0000,1.639960,5.01,al,0.184060,15,10k 304l ss,Acceptable,,#REF!,4 piece lexan rear serrations,0.5055,6.25,1,0.4965
+.50 Cal,RHTL 18URO 115,1904,2/6/2018,URO,Europa Clipper Propulsion Module,5.1.1.1-5,7,6.94,-0.06,163.3000,1.216400,3.50,slg,0.054600,15,10k 304l ss,Acceptable,,#REF!,4 piece lexan rear serrations,0.5055,6.125,1,0.4965
+.50 Cal,17518,1903,2/6/2018,ISS,SNC Dream Chaser TPS HVI Test Program: PNP BL Assessment,30,7,6.94,-0.06,170.1000,1.557130,3.69,ss,0.201430,15,10k 304l ss,Acceptable,,#REF!,4 piece lexan rear serrations,0.5055,6.375,1,0.4965
+.50 Cal,18007,1902,2/5/2018,ESA,MPCV ESM-3 Mass Reduction HVI Test Program,6,7,7.04,0.04,168.5000,1.423270,5.47,nylon,0.097870,15,10k 304l ss,Acceptable,,#REF!,4 piece lexan rear serrations,0.5050,7,1,0.4965
+.50 Cal,18006,1901,2/2/2018,ESA,MPCV ESM-3 Mass Reduction HVI Test Program,5,7,6.91,-0.09,167.0000,1.415760,5.48,nylon,0.097960,15,10k 304l ss,Acceptable,,#REF!,4 piece Lexan Rear Serrations,0.5050,6.75,1,0.4965
+.50 Cal,18012,1900,2/1/2018,ISS,ISS Orbital Cygnus Service Module Shield using Kevlar Pluse Style 775,4,5,4.94,-0.06,106.0000,1.596750,4.50,AL,0.133650,15,10k 304l ss,Acceptable,,#REF!,4 piece Lexan Rear Serrations,0.5050,6.75,1,0.4965
+.50 Cal,18005,1899,2/1/2018,ESA,MPCV ESM-3 Mass Reduction HVI Test Program,4,7.00,7.05,0.05,168.0000,1.414380,5.48,nylon,0.097980,15,10k 304l ss,Acceptable,,#REF!,4 piece Lexan Rear Serrations,0.5045,6.5,1,0.4965
+.50 Cal,18004-B,1898,1/31/2018,ESA,MPCV ESM-3 Mass Reduction HVI Test Program,3,7.06,7.06,0.00,164.0000,1.194260,3.97,nylon,0.037260,15,10k 304l ss,Acceptable,,#REF!,4 piece Lexan Rear Serrations,0.5045,6.75,1,0.4965
+.50 Cal,RHTL 18URO 111,1897,1/30/2018,URO,Europa Clipper Propulsion Module,5.2.1.4-4,7.00,7.01,0.01,168.0000,1.399100,4.43,CA,0.058300,15,10k 304l ss,Acceptable,,#REF!,4 piece Lexan Rear Serrations,0.5040,6.875,1,0.4965
+.50 Cal,18004,1896,1/30/2018,ESA,MPCV ESM-3 Mass Reduction HVI Test Program,3,7.06,7.06,0.00,164.0000,1.187670,3.97,nylon,0.037270,15,10k 304l ss,Unacceptable,impacted stripper,#REF!,4 piece Lexan Rear Serrations,0.0504,6.75,1,0.4965
+.50 Cal,17504,1895,1/29/2018,ISS,SNC Dream Chaser TPS HVI Test Program: PNP BL Assessment,16,7,5.44,-1.56,187.5000,2.024140,9.47,nylon,0.507640,15,10k 304l ss,Unacceptable,velocity low,#REF!,4 piece Lexan Rear Serrations,0.5040,5.75,1,0.4965
+.50 Cal,CAL,1894,1/25/2018,CLS,,,7,6.86,-0.14,184.0000,1.716200,5.95,al,0.309700,16,10k 304l ss,Acceptable,,#REF!,lexan,0.4890,4,1,0.489
+.50 Cal,17564,1893,1/24/2018,CCP,SpaceX Dragon 2 HVI Test Program: LOC BL Assessment,103,7,7.01,0.01,174.0000,1.808120,5.97,al,0.311820,15,10k 304l ss,Acceptable,,#REF!,4 piece Lexan Rear Serrations,0.5040,5.5,1,0.4965
+.50 Cal,18003,1892,1/24/2018,ESA,MPCV ESM-3 Mass Reduction HVI Test Program,2,4.77,4.8,0.03,98.0000,1.411150,5.48,nylon,0.098050,15,10k 304l ss,Acceptable,,#REF!,4 piece Lexan Rear Serrations,0.5035,6.5,1,0.4965
+.50 Cal,RHTL 18URO 110,1891,1/23/2018,URO,Europa Clipper Propulsion Module,5.2.1.1-3,7,7.15,0.15,165.5000,1.265000,3.95,CA,0.041300,15,10k 304l ss,Acceptable,,#REF!,4 piece Lexan Rear Serrations,0.5035,5.625,1,0.4965
+.50 Cal,RHTL 18URO 109,1890,1/22/2018,URO,Europa Clipper Propulsion Module,5.1.1.1-4,7,6.89,-0.11,163.3000,1.195300,3.00,slg,0.036200,15,10k 304l ss,Acceptable,,#REF!,4 piece Lexan Rear Serrations,0.5035,5.625,1,0.4965
+.50 Cal,17516,1889,1/19/2018,ISS,SNC Dream Chaser TPS HVI Test Program: PNP BL Assessment,28,7,6.93,-0.07,173.5000,1.779000,9.17,nylon,0.460200,15,10k 304l ss,Acceptable,,#REF!,4 piece Lexan Rear Serrations,0.5030,5.5,1,0.4965
+.50 Cal,17502,1888,1/18/2018,ISS,SNC Dream Chaser TPS HVI Test Program: PNP BL Assessment,14,7,6.96,-0.04,172.8000,1.757760,8.74,nylon,0.398760,15,10k 304l ss,Acceptable,,#REF!,4 piece Lexan Rear Serrations,0.5030,6,1,0.4965
+.50 Cal,17517,1887,1/18/2018,ISS,SNC Dream Chaser TPS HVI Test Program:PNP BL Assessment,29,7,7.01,0.01,168.5000,1.474700,3.17,ss,0.127800,15,10k 304l ss,Acceptable,,#REF!,4 piece lexan rear serrations,0.5030,6,1,0.4965
+.50 Cal,18002,1886,1/17/2018,ESA,MPCV ESM-3 Mass Reduction HVI Test Program,1,7.06,7.03,-0.03,163.3000,1.176810,3.97,nylon,0.037310,15,10k 304l ss,Acceptable,,#REF!,4 piece lexan rear serrations,0.5025,6,1,0.4965
+.50 Cal,17561,1885,1/11/2018,CCP,SpaceX Dragon 2 HVI Test Program: LOC BL Assessment,100,7,7.06,0.06,168.0000,1.457740,2.99,ss,0.107640,15,10k 304l ss,Acceptable,,#REF!,4 piece lexan rear serrations,0.5030,5.75,1,0.4965
+.50 Cal,17498,1884,1/10/2018,ISS ,SNC Dream Chaser TPS HVI Test Program: PNP BL Assessment,10,4.00,3.84,-0.16,78.0000,1.188450,1.99,ss,0.031450,15,10k 304l ss,Acceptable,,#REF!,4 piece lexan rear serrations,0.5025,6,1,0.4965
+.50 Cal,17500,1883,1/9/2018,ISS ,SNC Dream Chaser TPS HVI Test Program: PNP BL Assessment,12,7,6.96,-0.04,161.8000,1.193560,2.20,ss,0.042560,15,10k 304l ss,Acceptable,,#REF!,4 piece lexan rear serrations,0.5020,7.25,1,0.4965
+.50 Cal,17496,1882,1/8/2018,ISS ,SNC Dream Chaser TPS HVI Test Program: PNP BL Assessment,8,7,7.02,0.02,168.0000,1.427790,4.10,al,0.100990,15,10k 304l ss,Acceptable,,#REF!,4 piece lexan rear serrations,0.5020,6.25,1,0.4965
+.50 Cal,17560,1881,1/8/2018,CCP,SpaceX Dragon 2 HVI Test Program: LOC BL Assessment,99,7.00,7.06,0.06,163.0000,1.206320,2.37,ss,0.053220,15,10k 304l ss,Acceptable,,#REF!,4 piece lexan rear serrations,0.5020,6,1,0.4965
+.50 Cal,17503,1880,1/5/2018,ISS ,SNC Dream Chaser TPS HVI Test Program: PNP BL Assessment,15,7.00,6.98,-0.02,172.2000,1.690510,7.95,nylon,0.300410,15,10k 304l ss,Acceptable,,#REF!,4 piece lexan rear serrations,0.5020,5.75,1,0.4965
+.50 Cal,17515,1879,1/4/2018,ISS ,SNC Dream Chaser TPS HVI Test Program: PNP BL Assessment,27,7.00,7.01,0.01,173.4000,1.754500,8.75,nylon,0.400300,15,10k 304l ss,Acceptable,,#REF!,4 piece lexan rear serrations,0.5015,5.5,1,0.4965
+.50 Cal,17559,1878,1/3/2018,CCP,SpaceX Dragon 2 HVI Test Program: LOC BL Assessment,98,7.00,6.93,-0.07,162.0000,1.200430,2.37,ss,0.053230,15,10k 304l ss,Acceptable,,#REF!,4 piece lexan rear serrations,0.5015,6,1,0.4965
+.50 Cal,17497,1877,12/22/2017,ISS,SNC Dream Chaser TPS HVI Test Program: PNP BL Assessment,9,4.00,4.09,0.09,74.0000,1.053840,1.59,SS,0.016140,15,10k 304l ss,Acceptable,,#REF!,4 piece lexan rear serrations,0.5015,5.5,1,0.4965
+.50 Cal,17499,1876,12/21/2017,ISS,SNC Dream Chaser TPS HVI Test Program: PNP BL Assessment,11,7,7.05,0.05,159.5000,1.054230,1.79,ss,0.023130,15,10k 304l ss,Acceptable,,#REF!,4 piece lexan rear serrations,0.5015,6.125,1,0.4965
+.50 Cal,17501,1875,12/20/2017,ISS,SNC Dream Chaser TPS HVI Test Program: PNP BL Assessment,13,7,6.98,-0.02,171.7000,1.643730,7.00,NYLON,0.204630,15,10k 304l ss,Acceptable,,#REF!,4 piece lexan rear serrations,0.5010,5.5,1,0.4965
+.50 Cal,17494,1874,12/20/2017,ISS,SNC Dream Chaser TPS HVI Test Program: PNP BL Assessment,6,7,7.02,0.02,168.5000,1.430720,3.97,al,0.091420,15,10k 304l ss,Acceptable,,#REF!,4 piece lexan rear serrations,0.5010,6.125,1,0.4965
+.50 Cal,17492,1873,12/19/2017,ISS,SNC Dream Chaser TPS HVI Test Program: PNP BL Assessment,4,7,6.91,-0.09,171.9000,1.703860,7.95,NYLON,0.299560,15,10k 304l ss,Acceptable,,#REF!,4 piece lexan rear serrations,0.5010,6,1,0.4965
+.50 Cal,RHTL 18URO 085,1872,12/18/2017,URO,Europa Clipper Propulsion Module,5.2.1.4-3,7,7.03,0.03,168.3000,1.392600,4.93,CA,0.079700,15,10k 304l ss,Acceptable,,#REF!,4 piece lexan rear serrations,0.5010,5.625,1,0.4965
+.50 Cal,RHTL 18URO 084,1871,12/14/2017,URO,Europa Clipper Propulsion Module,5.1.1.1-3,7,7.06,0.06,162.0000,1.169500,2.60,SLG,0.023000,15,10k 304l ss,Acceptable,,#REF!,4 piece lexan rear serrations,0.5010,5.5,1,0.4965
+.50 Cal,17547,1870,12/14/2017,CCP,Characterize Response of CST-100 Thermal Protection System,21,7,6.95,-0.05,171.0000,1.578020,4.60,al,0.141620,15,10k 304l ss,Acceptable,,#REF!,4 piece lexan rear serrations,0.5010,6,1,0.4965
+.50 Cal,17490,1869,12/13/2017,ISS,SNC Dream Chaser TPS HVI Test Program: PNP BL Assessment,2,7,6.97,-0.03,170.0000,1.535170,6.34,NYLON,0.151670,15,10k 304l ss,Acceptable,,#REF!,4 piece lexan rear serrations,0.5010,4.75,1,0.4965
+.50 Cal,17259,1868,12/12/2017,CCP,SpaceX Dragon 2 HVI Test Program: LOM BL Assessment,7,7,7.06,0.06,160.0000,1.057750,1.72,ss,0.020450,15,10k 304l ss,Acceptable,,#REF!,4 piece lexan rear serrations,0.5005,6.25,1,0.4965
+.50 Cal,17495,1867,12/11/2017,ISS,SNC Dream Chaser TPS HVI Test Program: PNP BL Assessment,7,7,6.91,-0.09,167.0000,1.405270,3.70,al,0.074170,15,10k 304l ss,Acceptable,,#REF!,4 piece lexan rear serrations,0.5005,6,1,0.4965
+.50 Cal,RHTL 18URO 077,1866,12/11/2017,URO,Europa Clipper Propulsion Module,5.4.1.4-2,7,7,0.00,163.3000,1.254000,3.98,ca,0.042200,15,10k 304l ss,Acceptable,,#REF!,4 piece lexan rear serrations,0.5000,6.25,1,0.4965
+.50 Cal,17491,1865,12/8/2017,ISS,SNC Dream Chaser TPS HVI Test Program: PNP BL Assessment,3,7,6.98,-0.02,171.7000,1.661280,7.55,nylon,0.257280,15,10k 304l ss,Acceptable,,#REF!,4 Piece lexan rear serrations,0.5000,6,1,0.4965
+.50 Cal,RHTL 18URO 076,1864,12/7/2017,URO,Europa Clipper Propulsion Module,5.4.1.3-3,7.00,6.97,-0.03,170.0000,1.547400,6.43,ca,0.176900,15,10k 304l ss,Acceptable,,#REF!,4 Piece lexan rear serrations,0.5000,5.5,1,0.4965
+.50 Cal,17275,1863,12/6/2017,CCP,SpaceX Dragon-2 HVI Test Program: PNP BL Assessment,11,7,6.93,-0.07,162.0900,1.210330,2.50,ss,0.062830,15,10k 304l ss,Acceptable,,#REF!,4 piece lexan rear serrations,0.5000,5.5,1,0.4965
+.50 Cal,RHTL 18URO 075B,1862,12/6/2017,URO,Europa Clipper Propulsion Module,5.2.1.4-2,7,6.94,-0.06,163.0000,1.256400,3.98,CA,0.042500,15,10k 304l ss,Acceptable,,#REF!,4 piece lexan rear serrations,0.5000,5.5,1,0.4965
+.50 Cal,RHTL 18URO 075,1861,12/5/2017,URO,Europa Clipper Propulsion Module,5.2.1.4-2,7,6.9,-0.10,162.5000,1.253000,3.98,CA,0.041800,15,10k 304l ss,Unacceptable,Impacted Stripper,#REF!,4 Piece lexan rear serrations,,6,1,0.4965
+.50 Cal,17493,1860,12/4/2017,ISS,SNC Dream Chaser TPS HVI Test Program: PNP BL Assessment,5,7,7.01,0.01,170.0900,1.561140,4.50,al,0.133540,15,10k 304l ss,Acceptable,,#REF!,4 Piece lexan rear serrations,0.4995,6,1,0.4965
+.50 Cal,17489,1859,11/30/2017,ISS,SNC Dream Chaser TPS HVI Test Program: PNP BL Assessment,1,7,6.94,-0.06,171.0000,1.659810,7.55,nylon,0.256710,15,10k 304l ss,Acceptable,,#REF!,4 piece lexan rear serrations,0.4995,6,1,0.4965
+.50 Cal,17551,1858,11/29/2017,CCP,SpaceX Dragon 2 HVI Test Program: LOC BL Assessment ,97,7,6.9,-0.10,161.1000,1.184810,2.20,SS,0.042610,15,10k 304l ss,Acceptable,,#REF!,4 piece lexan rear serrations,0.4995,6,1,0.4965
+.50 Cal,RHTL 18URO 069,1857,11/27/2017,URO,Europa Clipper Propulsion Module,5.4.1.3-2,7,6.98,-0.02,170.0000,1.643800,6.91,CA,0.211200,15,10k 304l ss,Acceptable,,#REF!,4 piece lexan rear serrations,0.4995,5,1,0.4965
+.50 Cal,17545,1856,11/22/2017,ccp,SpaceX Dragon 2 HVI Test Program: LOC BL Assessment ,96,7,7.05,0.05,162.0000,1.187020,2.20,ss,0.042620,15,10k 304l ss,Acceptable,,#REF!,4 piece lexan rear serrations,0.4990,5.5,1,0.4965
+.50 Cal,RHTL 18URO 061,1855,11/21/2017,URO,Europa Clipper Propulsion Module,5.4.1.2-3,7,7.1,0.10,168.0000,1.382700,4.91,ca,0.080500,15,10k 304l ss,Acceptable,,#REF!, 4 piece Lexan rear serrations,0.4990,6,1,0.4965
+.50 Cal,RHTL 18URO 060,1854,11/16/2017,URO,Europa Clipper Propulsion Module,5.3.1.4-2,7,6.88,-0.12,160.0000,1.168700,2.60,SLG,0.024800,15,10k 304l ss,Acceptable,,2,4 piece lexan rear serrations,0.4985,6,1,0.4965
+.50 Cal,17181,1853,11/15/2017,CCP,SpaceX Dragon 2 HVI Test Program: LOC BL Assessment,12,7,7.08,0.08,160.0000,1.054630,1.39,SS,0.010730,15,10k 304l ss,Acceptable,,2,4 piece lexan rear serrations,0.4985,6,1,0.4965
+.50 Cal,17537,1852,11/14/2017,CCP,SpaceX Dragon 2 HVI Test Program: LOC BL Assessment,88,7,7.1,0.10,161.0000,1.052780,1.72,ss,0.020480,15,10k 304l ss,Acceptable,,#REF!,4 piece lexan rear serrations,0.4985,6,1,0.4965
+.50 Cal,16432,1851,11/9/2017,CCP,Characterize Response of CST-100 Thermal Protection System,12,7,7.07,0.07,170.5000,1.574340,4.76,al,0.158040,15,10K 304L SS,Acceptable,,#REF!,4 Piece Lexan Rear Serrations,0.4980,6,1,0.4965
+.50 Cal,RHTL 18URO 059,1850,11/8/2017,URO,Europa Clipper Propulsion Module,5.3.1.3-4,7,6.94,-0.06,162.0500,1.189800,3.50,SLG,0.057500,15,10K 304L SS,Acceptable,,#REF!,4 Piece Lexan Rear Serrations,0.4975,7,1,0.4965
+.50 Cal,17535,1849,11/8/2017,CCP,SpaceX Dragon 2 HVI Test Program: LOC BL Assessment,86,7,7.14,0.14,164.0000,1.051910,1.72,SS,0.020510,15,10K 304L SS,Acceptable,,#REF!,4 Piece Lexan Rear Serrations,0.4975,7,1,0.4965
+.50 Cal,RHTL 18URO 058,1848,11/7/2017,URO,Europa Clipper Propulsion Module,5.2.1.3-4,7,7.12,0.12,174.5000,1.532800,6.40,ca,0.174100,15,10K 304L SS,Acceptable,,#REF!,4 Piece Lexan Rear Serrations,0.4975,5.5,1,0.4965
+.50 Cal,17541,1847,11/6/2017,CCP,SpaceX Dragon 2 HVI Test Program: LOC BL Assessment,92,7,6.87,-0.13,164.0000,1.046330,1.59,ss,0.016130,15,10K 304L SS,Acceptable,,#REF!,4 Piece Lexan Rear Serrations,0.4970,8.5,1,0.4965
+.50 Cal,17270,1846,11/2/2017,CCP,SpaceX Dragon-2 HVI Test Program: PNP BL Assessment,6,7,6.97,-0.03,177.0000,1.612840,5.30,al,0.218740,15,10k 304l ss,Acceptable,,#REF!,4 piece lexan rear serrations,0.4965,8,1,0.4965
+.50 Cal,RHTL 18URO 057,1845,11/1/2017,URO,Europa Clipper Propulsion Module Test,5.4.1.3-1,7,7.06,0.06,167.0000,1.383600,5.90,CA,0.132900,18,10k 304l ss,Acceptable,,#REF!,4 piece lexan rear serrations,0.4945,6.375,1,0.4887
+.50 Cal,RHTL 18URO 056,1844,10/31/2017,URO,Europa Clipper Propulsion Module Test,5.3.1.3-3,7,7.12,0.12,162.3000,1.158300,3.00,SLG,0.037000,18,10k 304l ss,Acceptable,,#REF!,4 piece lexan rear serrations,0.4945,6.75,1,0.4887
+.50 Cal,17268,1843,10/31/2017,CCP,SpaceX Dragon-2 HVI Test Program: PNP BL Assessment,4,7,7.14,0.14,162.3000,1.056470,1.90,ss,0.027070,18,10k 304l ss,Acceptable,,#REF!,4 piece lexan rear serrations,0.4945,6,1,0.4887
+.50 Cal,RHTL 18URO 055,1842,10/30/2017,URO,Europa Clipper Propulsion Module Test,5.1.1.4-3,7,6.96,-0.04,161.5000,1.150500,2.50,SLG,0.023800,18,10k 304l ss,Acceptable,,#REF!,4 piece lexan rear serrations,0.4945,6,1,0.4887
+.50 Cal,17543,1841,10/27/2017,CCP,SpaceX Dragon 2 HVI Test Program: LOC BL Assessment,94,7,6.93,-0.07,160.0000,1.004040,1.39,SS,0.010740,18,10k 304l ss,Acceptable,,#REF!,4 piece lexan rear serrations,0.4945,6,1,0.4887
+.50 Cal,RHTL 18URO 054,1840,10/26/2017,URO,Europa Clipper Propulsion Module Test,5.3.1.2-5,7,6.98,-0.02,161.0000,1.149600,2.50,SLG,0.023200,18,10k 304l ss,Acceptable,,#REF!,4 piece lexan rear serrations,0.4940,6.5,1,0.4887
+.50 Cal,17276,1839,10/25/2017,CCP,SpaceX Dragon 2 HVI Test Program: LOC BL Assessment,12,7,6.93,-0.07,175.5000,1.787160,6.35,al,0.374660,18,10k 304l ss,Acceptable,,#REF!,4 piece lexan rear serrations,0.4940,6.25,1,0.4887
+.50 Cal,RHTL 18URO 053B,1838,10/24/2017,URO,Europa Clipper Propulsion Module Test,5.4.1.2-2,7,7.08,0.08,167.3000,1.342800,4.50,CA,0.061000,18,10k 304l ss,Acceptable,,#REF!,4 piece lexan rear serrations,0.4935,n/a,1,0.4887
+.50 Cal,17544,1837,10/24/2017,CCP,SpaceX Dragon 2 HVI Test Program: LOC BL Assessment,95,7,7.06,0.06,169.0000,1.396860,2.20,ss,0.042660,11,10k 304l ss,Acceptable,,#REF!,4 piece lexan rear serrations,0.5520,n/a,1,0.5418
+.50 Cal,RHTL 18URO 053,1836,10/23/2017,URO,Europa Clipper Propulsion Module,5.4.1.2-2,7.00,7.15,0.15,171.3000,1.641400,4.50,ca,0.061000,11,10K 304L SS,Unacceptable,Impacted Stripper,2,4 piece lexan rear serrations,0.5520,5.5,1,0.5418
+.50 Cal,17274,1835,10/18/2017,CCP,SpaceX Dragon-2 HVI Test Program: PNP BL Assessment,10,7,6.9,-0.10,167.2000,1.406440,2.38,ss,0.053240,11,10K 304L SS,Acceptable,,#REF!,4 Piece Lexan Rear Serrations,0.5520,5.75,1,0.5418
+.50 Cal,17271,1834,10/16/2017,CCP,SpaceX Dragon-2 HVI Test Program:PNP BL Assessment,7,7,7.11,0.11,186.0000,1.930790,5.40,al,0.231390,11,10K 304L SS,Acceptable,,#REF!,4 Piece Lexan Rear Serrations,0.5515,5.25,1,0.5418
+.50 Cal,17269,1833,10/13/2017,CCP,SpaceX Dragon-2 HVI Test Program:PNP BL Assessment,5,7,7.05,0.05,179.0000,1.860240,4.70,al,0.152340,11,10K 304L SS,Acceptable,,#REF!,4 Piece Lexan Rear Serrations,0.5515,5.75,1,0.5418
+.50 cal,17542,1832,10/12/2017,CCP,SpaceX Dragon 2 HVI Test Program: LOC BL Assessment,93,7,6.76,-0.24,163.6000,1.403150,2.20,ss,0.042650,11,10K 304L SS,Unacceptable,Velocity Low,2,4 Piece Lexan Rear Serrations,0.5515,5.375,1,0.5418
+.50 Cal,RHTL 18URO 051,1831,10/11/2017,URO,Europa Clipper Propulsion Module,5.2.1.3-3,7,7.05,0.05,172.0000,1.671200,6.00,ca,0.132800,11,10k 304l ss,Acceptable,,2,4 piece lexan rear serrations,0.5515,5.5,1,0.5418
+.50 Cal,RHTL URO 035,1830,10/5/2017,URO,Europa Clipper Propulsion Module,5.2.1.2-3,7,7.05,0.05,166.7000,1.475000,4.00,ca,0.041800,11,10k 304l ss,Acceptable,,#REF!,4 piece lexan rear serrations,0.5510,,1,0.5418
+.50 Cal,16426,1829,10/4/2017,CCP,Characterize Response of CST-100 Thermal Protection System ,6,7,6.99,-0.01,171.8000,1.665890,3.90,al,0.085890,11,10k 304l ss,Acceptable,,#REF!,4 piece lexan rear serrations,0.5510,n/a,1,0.5418
+.50 Cal,RHTL URO 018,1828,10/3/2017,URO,Europa Clipper Propulsion Module ,5.3.1.3-2,7,6.99,-0.01,171.5000,1.655400,4.00,slg,0.083200,11,10k 304l ss,Acceptable,,#REF!,4 piece lexan rear serrations,0.5510,n/a,1,0.5418
+.50 Cal,RHTL URO 045,1827,10/2/2017,URO,Europa Clipper Propulsion Module ,5.4.1.2-1,7,6.99,-0.01,166.5000,1.478500,4.00,ca,0.042100,11,10k 304l ss,Acceptable,,#REF!,4 piece lexan rear serrations,0.5510,5.5,1,0.5418
+.50 Cal,RHTL URO038,1826,9/28/2017,URO,Europa Clipper Propulsion Module Test,5.2.1.3-2,7,6.99,-0.01,171.0000,1.633800,5.00,ca,0.080800,11,10k 304l ss,Acceptable,,#REF!,4 piece lexan rear serrations,0.5510,5.5,1,0.5418
+.50 Cal,RHTL URO034,1825,9/26/2017,URO,Europa Clipper Propulsion Module,5.2.1.2-2,7,6.93,-0.07,170.0000,1.627800,4.50,CA,0.059000,11,10k 304l ss,Acceptable,,#REF!,4 Piece lexan rear serrations,0.5510,5.5,1,0.5418
+.50 Cal,RHTL URO 037,1824,9/25/2017,URO,Europa Clipper Propulsion Module ,5.2.1.3-1,7,7.04,0.04,186.0000,1.940700,7.00,ca,0.214000,11,10k 304l ss,Acceptable,,#REF!,4 piece lexan rear serrations,0.5500,6.5,1,0.5418
+.50 Cal,16431,1823,9/21/2017,CCP,Characterize Response of CST-100 Thermal Protection System,11,7,6.97,-0.03,177.3000,1.838200,4.50,al,0.133500,11,10k 304l ss,Acceptable,,#REF!,4 piece lexan rear serrations,0.5500,6,1,0.5418
+.50 Cal,16425,1822,9/20/2017,CCP,Characterize Response of CST-100 Thermal Protection System ,5,7,7.06,0.06,178.0000,1.834100,4.50,al,0.133500,11,10k 304l ss,Acceptable,,#REF!,4 piece lexan rear serrations,0.5500,5.625,1,0.5418
+.50 Cal,RHTL URO 017,1821,9/19/2017,URO,Europa Clipper Propulsion Module,5.3.1.3-1,7,7.02,0.02,193.0000,2.193500,7.00,slg,0.468100,11,10k 304l ss,Acceptable,,#REF!,4 piece lexan rear serrations,0.5500,5.25,1,0.5418
+.50 Cal,RHTL URO 033,1820,9/14/2017,URO,Europa Clipper Propulsion Module Test,5.2.1.2-1,7,6.97,-0.03,171.0000,1.668100,6.00,ca,0.136500,11,10k 304l ss,Acceptable,,#REF!,4 piece lexan rear serrations,0.5500,5.5,1,0.5418
+.50 Cal,17185,1819,9/6/2017,ccp,SpaceX Dragon 2 HVI Test Program: LOC BL Assessment ,16,7,6.96,-0.04,166.8000,1.386770,3.97,al,0.091470,18,10k 304l ss,Acceptable,,#REF!,4 piece lexan rear serrations,0.4935,5.25,1,0.4887
+.50 Cal,RHTL URO015-B,1818,8/28/2017,URO,Europa Clipper Propulsion Module,5.3.1.2-3,7,6.97,-0.03,162.8000,1.145640,3.00,slg,0.035340,18,10k 304l ss,Acceptable,,#REF!,4 Piece lexan rear serrations,0.4935,6,1,0.4887
+.50 Cal,RHTL URO009,1817,8/24/2017,URO,Europa Clipper  Propulsion Module,5.1.1.4-1,7,6.96,-0.04,162.0000,1.148140,3.00,slg,0.035340,18,10K 304L SS,Acceptable,,#REF!,4 Piece Lexan Rear Serrations,0.4935,6,1,0.4887
+.50 Cal,Cal,1816,8/24/2017,CLS,,,7,7.03,0.03,165.0000,1.158200,3.00,SLG,0.036700,15,10K 304L SS,Acceptable,,#REF!,lexan,0.4965,5.25,1,0.4965
+.50 Cal,17195,1815,8/22/2017,CCP,SpaceX Dragon 2 HVI Test Program: LOC BL Assessment,26,7,7.11,0.11,165.0000,1.196520,2.70,ss,0.088200,18,10k 304l ss,Acceptable,,#REF!,4 piece lexan rear serrations,0.4935,6,1,0.4887
+.50 Cal,17193,1814,8/21/2017,CCP,SpaceX Dragon 2 HVI Test Program: LOC BL Assessment,24,7,6.85,-0.15,160.0000,1.039300,1.72,ss,0.020500,18,10K 304L SS,Acceptable,,#REF!,4 Piece Lexan Rear Serrations,,6,1,0.4887
+.50 Cal,17183,1813,8/18/2017,CCP,SpaceX Dragon 2 HVI Test Program: LOC BL Assessment,14,7,6.7,-0.30,157.8000,1.035350,1.49,ss,0.013250,18,10k 304l ss,Unacceptable,velocity low,#REF!,4 piece lexan rear serrations,0.4930,6,1,0.4887
+.50 Cal,CAL,1812,8/17/2017,CLS,,,7,7,0.00,184.0000,1.763500,5.95,al,0.310300,15,,Acceptable,,#REF!,Lexan,0.4965,4.25,1,0.4965
+.50 Cal,RHTL URO008,1811,8/16/2017,URO,Europa Clipper Propulsion Module,5.1.1.3-4,7,6.92,-0.08,165.0000,1.430000,5.00,slg,0.166900,18,10K 304L SS,Acceptable,,#REF!,4 Piece Lexan Rear Serrations,0.4930,6,1,0.4887
+.50 Cal,17225,1810,8/14/2017,CCP,SpaceX Dragon 2 HVI Test Program: LOC BL Assessment,56,4,3.88,-0.12,80.5000,1.212950,2.90,ss,0.098050,18,10K 304L SS,Acceptable,,#REF!,4 Piece Lexan Rear Serrations,0.4930,5.25,1,0.4887
+.50 cal,17223,1809,8/10/2017,CCP,SpaceX Dragon 2 HVI Test Program: LOC BL Assessment ,54,4,3.8,-0.20,78.0000,1.201600,2.75,ss,0.083700,18,10k 304l ss,Acceptable,,#REF!,4 piece lexan rear serrations,0.4930,5,1,0.4887
+.50 Cal,17221,1808,8/9/2017,CCP,SpaceX Dragon 2 HVI Test Program: LOC BL Assessment ,52,7,7,0.00,158.0000,1.160330,2.20,ss,0.042630,18,10k 304l ss,Acceptable,,#REF!,4 piece lexan rear serrations,0.4925,5.75,1,0.4887
+.50 Cal,17219,1807,8/8/2017,CCP,SpaceX Dragon 2 HVI Test Program: LOC BL Assessment ,50,7,7.09,0.09,160.0000,1.152690,2.09,ss,0.036590,18,10k 304l ss,Acceptable,,#REF!,4 piece lexan rear serrations,0.4925,6,1,0.4887
+.50 Cal,17217,1806,8/4/2017,CCP,SpaceX Dragon 2 HVI Test Program: LOC BL Assessment,48,7,7.07,0.07,158.0000,1.145160,1.99,ss,0.031460,18,10k 304l ss,Acceptable,,#REF!,4 piece lexan rear serrations,0.4925,5.5,1,0.4887
+.50 Cal,17203,1805,8/3/2017,CCP,SpaceX Dragon 2 HVI Test Program: LOC BL Assessment,32,7,7.11,0.11,158.0000,1.029900,1.59,ss,0.016100,18,10K 304L SS,Acceptable,,#REF!,4 Piece Lexan Rear Serrations,0.4925,6.25,1,0.4887
+.50 Cal,17199,1804,8/2/2017,CCP,SpaceX Dragon 2 HVI Test Program: LOC BL Assessment,30,7,7.03,0.03,169.0000,1.631210,5.70,al,0.717100,18,10K 304L SS,Acceptable,,#REF!,4 Piece Lexan Rear Serrations,0.4920,6,1,0.4887
+.50 Cal,17279,1803,7/31/2017,CCP,SpaceX Dragon-2 HVI Test Program: PNP BL Assessment ,15,7,7.01,0.01,169.0000,1.631570,5.70,al,0.271670,18,10K 304L SS,Acceptable,,#REF!,4 piece lexan rear serrations,0.4920,5.75,1,0.4887
+.50 Cal,17224,1802,7/27/2017,CCP,SpaceX Dragon 2 HVI Test Program: LOC BL Assessment,55,4,3.93,-0.07,77.0000,1.199560,2.77,ss,0.085260,18,10K 304L SS,Acceptable,,#REF!,4 piece lexan rear serrations,0.4920,4.25,1,0.4887
+.50 Cal,17222,1801,7/26/2017,CCP,SpaceX Dragon 2 HVI Test Program: LOC BL Assessment,53,4,4.51,0.51,84.1000,1.160990,2.37,SS,0.053290,18,10k 304L SS,Unacceptable,Velocity High,#REF!,4 Piece Lexan Rear Serrations,0.4910,5.75,1,0.4887
+.50 Cal,17220,1800,7/26/2017,CCP,SpaceX Dragon 2 HVI Test Program: LOC BL Assessment,51,7,7.23,0.23,163.5000,1.163060,2.37,ss,0.053260,18,10k 304L SS,Unacceptable,Velocity High,#REF!,4 Piece Lexan Rear Serrations,0.4910,5.5,1,0.4887
+.50 Cal,17218,1799,7/25/2017,CCP,SpaceX Dragon 2 HVI Test Program:LOC BL Assessment,49,7,7.11,0.11,166.0000,1.142870,1.89,ss,0.027070,18,10K 304L SS,Acceptable,,2,4 Piece Lexan Rear Serrations,0.4910,6,1,0.4887
+.50 Cal,17216,1798,7/24/2017,CCP,SpaceX Dragon 2 HVI Test Program:LOC BL Assessment,47,7,7.25,0.25,168.0000,1.023060,1.72,ss,0.020460,18,10K 304L SS,Unacceptable,velocity high,2,4 Piece Lexan Rear Serrations,0.4900,6.75,1,0.4887
+.50 Cal,RHTL URO014,1797,7/21/2017,URO,Europa Clipper Propulsion Module test,5.3.1.2-2,7,7.08,0.08,175.0000,1.379800,4.00,slg,0.084100,18,10K 304L SS,Acceptable,,2,4 Piece Lexan Rear Serrations,0.4900,6.5,1,0.4887
+.50 Cal,17191,1796,7/20/2017,CCP,SpaceX Dragon 2 HVI Test Program:LOC BL Assessment,22,7,6.82,-0.18,200.5000,2.792040,7.54,al,0.626240,11,10K 304L SS,Acceptable,,2,4 Piece Lexan Rear Serrations,0.5495,5,1,0.5418
+.50 Cal,17278,1795,7/19/2017,CCP,SpaceX Dragon-2 HVI Test Program: PNP BL Assessment,14,7,6.96,-0.04,190.0000,1.885080,7.00,al,0.501080,18,10k 304l ss,Acceptable,,#REF!,4 piece lexan rear serrations,0.4895,6,1,0.4887
+.50 Cal,17189,1794,7/18/2017,CCP,SpaceX Dragon 2 HVI Test Program: LOC BL Assessment,20,7,6.9,-0.10,180.0000,1.554340,5.11,al,0.194940,18,10k 304l ss,Acceptable,,#REF!,4 piece lexan rear searrations,0.4887,5.25,1,0.4887
+.50 Cal,cal,1793,7/18/2017,cls,,,7,6.84,-0.16,180.4000,1.718700,5.95,al,0.309900,18,10K 304L SS,Acceptable,,#REF!,lexan,0.4887,3.75,1,0.4887
+.50 Cal,17194,1792,7/17/2017,CCP,SpaceX Dragon 2 HVI Test Program: LOC BL Assessment ,25,7,7,0.00,169.5000,1.713470,3.17,ss,0.127870,11,10K 304L SS,Acceptable,,#REF!,4 piece lexan rear serrations,0.5490,5,1,0.5418
+.50 Cal,RHTL URO007,1791,7/13/2017,URO,Europa Clipper Propulsion Module,5.1.1.3-3,7,7.07,0.07,172.0000,1.687500,4.50,slg,0.127700,11,10k 304l ss,Acceptable,,#REF!,4 Piece Lexan Rear Serrations,0.5480,5.75,1,0.5418
+.50 Cal,17192,1790,7/13/2017,ccp,SpaceX Dragon 2 HVI Test Program: LOC BL Assessment,23,7,6.99,-0.01,165.0000,1.399080,2.20,ss,0.042680,11,10k 304l ss,Acceptable,,#REF!,4 Piece Lexan Rear Serrations,0.5490,5.5,1,0.5418
+.50 Cal,Cal,1788,7/11/2017,CLS,,,6.8,6.34,-0.46,222.0000,3.659600,7.00,al,1.386700,14,10K Petal valve,Unacceptable,LP Break-Up,#REF!,ultem 1000,0.5135,7.5,1,0.5117
+.50 Cal,17243,1787,7/11/2017,CCP,SpaceX Dragon 2 HVI Test Program: LOC BL Assessment,74,7,6.89,-0.11,160.6000,1.237390,1.79,ss,0.023090,11,10K 304L SS,Acceptable,,#REF!,4 Piece Lexan Rear Serrations,0.5490,4.75,1,0.5418
+.50 Cal,17273,1786,7/10/2017,CCP,SpaceX Dragon-2 HVI Test Program: PNP BL Assessment ,9,7,7.1,0.10,190.0000,2.041800,5.70,al,0.271200,11,10K 304L SS,Acceptable,,#REF!,4 Piece Lexan Rear Serrations,0.5490,5,1,0.5418
+.50 Cal,17233,1785,7/7/2017,CCP,SpaceX Dragon 2 HVI Test Program: LOC BL Assessment,64,7,7.11,0.11,189.5000,1.983400,3.50,ss,0.171800,11,10K 304L SS,Acceptable,,#REF!,4 Piece Lexan Rear Serrations,0.5490,5,1,0.5418
+.50 Cal,RHTL URO006,1784,7/6/2017,URO,Europa Clipper Propulsion Module Test ,5.1.1.3-2,7,7.03,0.03,171.0000,1.660500,4.00,slg,0.084100,11,10K 304L SS,Acceptable,,#REF!,4 Piece Lexan Rear Serrations,0.5478,7.5,1,0.5418
+.50 Cal,17231,1783,7/6/2017,CCP,SpaceX Dragon 2 HVI Test Program: LOC BL Assessment ,62,7,7.08,0.08,191.4000,2.200000,6.80,al,0.461070,11,10K 304L SS,Acceptable,,#REF!,4 Piece Lexan Rear Serrations,0.5490,3.5,1,0.5418
+.50 Cal,17266,1782,6/29/2017,CCP,SpaceX Dragon 2 HVI Test Program:LOC BL Assessment,2,7,7.12,0.12,175.7000,1.788190,5.56,al,0.251190,11,10K 304L SS,Acceptable,,#REF!,4 Piece Lexan Rear Serrations,0.5488,4.25,1,0.5418
+.50 Cal,17242,1781,6/28/2017,CCP,SpaceX Dragon 2 HVI Test Program:LOC BL Assessment,73,7,7.07,0.07,161.5000,1.241200,1.59,ss,0.016110,11,10K 304L SS,Acceptable,,#REF!,4 Piece Lexan Rear Serrations,0.5488,4.75,1,0.5418
+.50 Cal,17245,1780,6/27/2017,CCP,SpaceX Dragon 2HVI Test Program: LOC BL Assessment ,76,7,7.09,0.09,165.2000,1.400700,2.20,ss,0.042670,11,10k 304L SS,Acceptable,,#REF!,4 Piece Lexan Rear Serrations,0.5488,4.125,1,0.5418
+.50 Cal,17239,1779,6/27/2017,CCP,SpaceX Dragon 2HVI Test Program: LOC BL Assessment ,70,7,6.85,-0.15,161.0000,1.243710,1.49,ss,0.013310,11,10k 304L SS,Acceptable,,#REF!,4 Piece Lexan Rear Serrations,0.5490,3.5,1,0.5418
+.50 Cal,17244,1778,6/26/2017,CCP,SpaceX Dragon 2 HVI Test Program: LOC BL Assessment,75,7,6.88,-0.12,164.3000,1.403000,1.89,ss,0.027060,11,10K 304L,Acceptable,,#REF!,4 Piece Lexan Rear Serrations,0.5488,3.875,1,0.5418
+.50 cal,17190,1777,6/23/2017,CCP,SpaceX Dragon 2 HVI Test Program: LOC BL Assessment,21,7,7.07,0.07,192.6000,2.164150,6.70,al,0.440750,11,10K 304L,Acceptable,,#REF!,4 Piece Lexan Rear Serrations,0.5488,4.25,1,0.5418
+.50 Cal,17250,1775,6/22/2017,CCP,SpaceX Dragon 2 HVI Test Program: LOC BL Assessment,80,7,7.01,0.01,193.1000,2.228000,7.00,al,0.501600,11,10K 304L SS,Acceptable,,#REF!,4 Piece Lexan Rear Serrations,0.5488,3,1,0.5418
+.50 Cal,RHTL URO005-B,1776,6/21/2017,URO,Europa Clipper Propulsion Module,5.1.1.3-1,7,7.03,0.03,172.6000,1.649000,4.00,slg,0.084100,11,10K 304L SS,Acceptable,,#REF!,4 Piece Lexan Rear Serrations,0.5488,4.75,1,0.5418
+.50 Cal,17240,1774,6/21/2017,CCP,SpaceX Dragon 2 HVI Test Program: LOC BL Assessment,1,7,7.06,0.06,161.5000,1.241200,1.79,ss,0.023110,11,10K 304L SS,Acceptable,,#REF!,4 Piece Lexan Rear Serrations,0.5488,3.5,1,0.5418
+.50 Cal,17272,1773,6/20/2017,CCP,SpaceX Dragon-2 HVI Test Program: PNP BL Assessment ,8,7,6.85,-0.15,173.5000,1.743300,5.00,al,0.183970,11,10K 304L SS,Acceptable,,#REF!,4 Piece Lexan Rear Serrations,0.5485,2.875,1,0.5418
+.50 Cal,17265,1772,6/19/2017,CCP,SpaceX Dragon-2 HVI Test Program: PNP BL Assessment,1,7,7.02,0.02,193.5000,2.227000,7.00,al,0.501290,11,10K 304L SS,Acceptable,,2,4 Piece lexan rear serrations,0.5485,2.875,1,0.5418
+.50 Cal,17201,1771,6/19/2017,CCP,SpaceX Dragon 2 HVI Test Program: LOC BL Assessment ,32,7,6.9,-0.10,160.6000,1.256700,1.79,ss,0.023130,11,10K 304L SS,Acceptable,,2,4 Piece lexan rear serrations,0.5480,4,1,0.5418
+.50 Cal,cal,1770,6/15/2017,cls,,,6.80,5.86,-0.94,224.5000,3.577000,6.96,SS,1.389600,13,,Unacceptable,LP Break-Up,2,Ultem 1000,0.5045,1.375,1,0.5034
+.50 Cal,17247,1769,6/14/2017,CCP,SpaceX Dragon 2 HVI Test Program: LOC BL Assessment,78,7,6.92,-0.08,195.0000,2.466000,11.15,nylon,0.828070,11,10K 304L SS,Acceptable,,#REF!,4 Piece Lexan Rear Serrations,0.5480,3,1,0.5418
+.50 Cal,RHTL URO005,1768,6/14/2017,URO,Europa Clipper Propulsion Module,5.1.1.3-1,7,6.97,-0.03,172.0000,1.652300,4.00,slg,0.083800,11,10K 304L SS,Unacceptable,Secondary Debris,#REF!,4 Piece Lexan Rear Serrations,0.5480,5,1,0.5418
+.50 Cal,17197,1767,6/13/2017,CCP,SpaceX Dragon 2 HVI Test Program:LOC BL Assessment ,28,7,7.06,0.06,172.0000,1.655450,3.81,Al,0.080850,11,10K 304L SS,Acceptable,,2,4 piece lexan rear serrations,0.5475,3.25,1,0.5418
+.50 Cal,17202,1766,6/12/2017,CCP,SpaceX Dragon 2 HVI Test Program: LOC BL Assessment,33,7,6.93,-0.07,170.0000,1.642550,2.59,SS,0.069450,11,10K 304L SS,Acceptable,,2,4 piece lexan rear serrations,0.5470,5.25,1,0.5418
+.50 Cal,17232,1765,6/9/2017,CCP,SpaceX Dragon 2 HVI Test Program: LOC BL Assessment,63,7,7.22,0.22,177.0000,1.702180,3.17,SS,0.127880,11,10K 304L SS,Unacceptable,Velocity High,2,4 piece lexan rear serrations,0.5465,5.5,1,0.5418
+.50 Cal,17230,1764,6/8/2017,CCP,SpaceX Dragon 2 HVI Test Program: LOC BL Assessment,61,7,7.14,0.14,193.0000,2.101610,6.35,Al,0.374610,11,10k 304l ss,Acceptable,,2,4 piece lexan rear serrations,0.5460,4.25,1,0.5418
+.50 Cal,17198,1763,6/8/2017,CCP,SpaceX Dragon 2 HVI Test Program: LOC BL Assessment,29,7,7.08,0.08,196.0000,2.205280,7.00,Al,0.501180,11,10k 304l ss,Acceptable,,2,2 piece lexan,0.5430,,1,0.5418
+.50 Cal,RHTL URO013,1762,6/7/2017,URO,Europa Clipper Propulsion Module,5.3.1.2-1,7,7.22,0.22,197.0000,2.015040,5.99,slg,0.281040,11,10k 304l ss,Unacceptable,Velocity High,2,4 piece lexan rear serrations,0.5450,4.5,1,0.5418
+.50 Cal,17249,1761,6/6/2017,CCP,SpaceX Dragon 2 HVI Test Program: LOC BL Assessment,79,7,7.13,0.13,200.0000,2.043130,5.97,Al,0.311930,11,10k 304l ss,Acceptable,,2,4 piece lexan rear serrations,0.5430,8.25,1,0.5418
+.50 Cal,17200,1760,6/1/2017,CCP,SpaceX Dragon 2 HVI Test Program: Loc BL Assessment ,31,7,7.14,0.14,178.0000,1.624660,2.59,ss,0.069460,11,10k 304l ss,Acceptable,,2,4 piece lexan rear serrations,0.5430,8,1,0.5418
+.50 Cal,17188,1759,5/31/2017,CCP,SpaceX Dragon 2 HVI Test Program: LOC BL Assessment,19,7,7.13,0.13,180.0000,1.680500,4.76,Al,0.157600,11,10k 304l ss,Acceptable,,2,4 piece lexan rear serrations,0.5430,2.75,1,0.5418
+.50 Cal,17246,1758,5/30/2017,CCP,SpaceX Dragon 2 HVI Test Program: LOC BL Assessment,77,7,6.92,-0.08,197.0000,2.265420,9.47,nylon,0.506920,11,10k 304l ss,Acceptable,,2,4 piece lexan rear serrations,0.5427,3.63,1,0.5418
+.50 Cal,17228,1757,5/26/2017,CCP,SpaceX Dragon 2 HVI Test Program: LOC BL Assessment,59,7,7.04,0.04,198.0000,2.436290,11.15,nylon,0.827990,11,10k 304l ss,Acceptable,,2,4 piece lexan rear serrations,0.5427,4.38,1,0.5418
+.50 Cal,17236,1756,5/25/2017,CCP,SpaceX Dragon 2 HVI Test Program: LOC BL Assessment,67,7,6.96,-0.04,196.5000,2.284300,9.55,nylon,0.506600,11,10k 304l ss,Acceptable,,2,lexan,0.5427,2    ,1,0.5418
+.50 Cal,17234,1755,5/24/2017,CCP,SpaceX Dragon 2 HVI Test Program: LOC BL Assessment,65,7,6.88,-0.12,195.0000,2.417640,11.15,nylon,0.827840,11,10k 304l ss,Acceptable,,2,4 piece lexan rear serrations,0.5427,3.63,1,0.5418
+.50 Cal,17196,1754,5/23/2017,CCP,SpaceX Dragon 2 HVI Test Program: LOC BL Assessment,27,7,7.05,0.05,165.3000,1.482960,4.76,al,0.157560,13,10k 304l ss,Acceptable,,#REF!,4 piece lexan rear serrations,0.5040,2.75,1,0.5034
+.50 Cal,cal,1753,5/18/2017,CLS,,,7,7.03,0.03,177.0000,1.606200,5.95,al,0.309900,13,10k 304L SS,Acceptable,,2,4 Piece Lexan with rear serrations,0.5035,3.5,1,0.5034
+.50 Cal,cal,1752,5/11/2017,cls,,,7,6.35,-0.65,222.2000,3.624400,7.00,ss,1.386300,11,10k 304L SS,Unacceptable,LP Break-Up,#REF!,Ultem 1000,0.5385,3,1,0.536
+.50 Cal,RHTL URO004,1751,5/4/2017,URO,Europa Clipper Propulsion Module Test 5.1.1.2-4,5.1.1.2-4,7,6.85,-0.15,164.50000,1.347100,3.50,SLG,0.055400,11,10k 304L SS,Acceptable,,#REF!,4- Piece Lexan,0.5385,3,1,0.536
+.50 Cal,RHTL URO002,1750,4/18/2017,URO,Europa Clipper Propulsion Module ,5.1.1.2-2,7,6.92,-0.08,164.5,1.3749000,4.00,slg,0.0848,12,10k 304l ss,Unacceptable,Secondary Debris,#REF!,4 Piece lexan,0.5385,6,1,0.5319
+.50 Cal,17116,1749,4/17/2017,ISS,ISS PMA3 PCBM Shielding ,25,6.8,6.60,-0.20,216.3,3.49416,10.32,al,1.614860,12,10k 304l ss,Acceptable,,2,2 piece lexan,0.5380,5.5,1,0.5319
+.50 Cal,17112,1748,4/14/2017,ISS,ISS PMA3 PCBM Shielding ,21,6.8,7.12,0.32,216.0,3.46783,7.00,ss,1.387130,12,10k 304l ss,Unacceptable,LP Break-Up,2,2 piece lexan,0.5380,6.25,1,0.5319
+.50 Cal,RHTL URO001,1747,4/11/2017,URO,Europa Clipper Propulsion Module Test 5.1.1.2-1,5.1.1.2-1,7,7.19,0.19,180.0,1.7543,6.00,slg,0.2869,12,10k 304l ss,Acceptable,,#REF!,4 piece lexan,0.5380,6,1,0.5319
+.50 Cal,17104,1746,4/4/2017,BOE,CCP SpaceX Crew Dragon Draco Nozzle HVI Test Program,6,7,6.83,-0.17,160.2000,1.213330,1.89,ss,0.027030,12,10k 304l ss,Acceptable,,#REF!,4 Piece Lexan,0.5380,6,1,0.5319
+.50 Cal,17114,1745,4/3/2017,ISS,ISS PMA3 PCBM Shielding,23,6.8,6.69,-0.11,187.0000,2.781370,6.00,ss,0.864770,12,10k 304L SS,Acceptable,,#REF!,2 piece lexan,5.3750,5.75,1,0.5319
+.50 Cal,17111,1744,3/31/2017,ISS,ISS PMA3 PCBM Shielding ,20,6.8,6.65,-0.15,186.0000,2.771230,5.99,SS,0.865230,12,10K 304L SS,Acceptable,,#REF!,2 Piece Lexan,0.5370,5,1,0.5319
+.50 Cal,17109,1743,3/29/2017,ISS,ISS PMA3 PCBM Shielding ,18,6.8,6.78,-0.02,216.2000,3.249520,10.32,al,1.613520,12,10K 304L SS,Acceptable,,#REF!,2 Piece Lexan,0.5370,4.5,1,0.5319
+.50 Cal,17065-B,1742,3/28/2017,ESA,MPCV ESM MDPS PSS HVI,6B,5.9,5.43,-0.47,120.2000,1.337000,5.48,Nylon,0.098000,12,10K 304L SS,Unacceptable,Velocity Low,#REF!,4 Piece Lexan,0.5365,8,1,0.5319
+.50 Cal,17065,1741,3/27/2017,ESA,MPCV ESM MDPS PSS HVI,6,5.9,5.48,-0.42,118.7000,1.333600,5.49,Nylon,0.098600,12,10k 304L SS,Unacceptable,Impacted Stripper,#REF!,4 Piece lexan,0.5360,8,1,0.5319
+.50 Cal,17107-B,1740,3/23/2017,ISS,ISS PMA3 PCBM Shielding ,16,6.8,6.62,-0.18,216.2000,3.236800,10.32,al,1.614300,12,10K 304L SS,Acceptable,,#REF!,2 Piece Lexan,5.3550,5.875,1,0.5319
+.50 Cal,17092,1739,3/23/2017,BOE,Commercial Crew Program Inspection of Thermal Protection System,10,7,7.09,0.09,160.0000,1.175120,2.20,SS,0.042720,9,10K 304L SS,Acceptable,,#REF!,4 Piece Lexan,5.2700,3,1,0.5202
+.50 Cal,17113,1738,3/22/2017,ISS,ISS PMA3 PCBM Shielding ,22,6.8,7.08,0.28,180.0000,1.879450,4.76,ss,0.433950,9,10K 304L SS,Unacceptable,Velocity High,2,2 Piece Lexan,0.5265,3,1,0.5202
+.50 Cal,17088,1737,3/21/2017,BOE,Commercial Crew Program Inspection of Thermal Protection System,6,7,6.85,-0.15,159.8000,1.155840,2.00,ss,0.031440,9,10K 304L SS,Acceptable,,2,4 piece lexan,0.5265,3.75,1,0.5202
+.50 Cal,17084,1736,3/20/2017,BOE,Commercial Crew Program Inspection of Thermal Protection System,2,7,6.98,-0.02,159.5000,1.062910,1.60,ss,0.016110,9,10K 304L SS,Acceptable,,2,4 piece lexan,0.5265,4.5,1,0.5202
+.50 Cal,17110,1734,3/17/2017,ISS,ISS PMA3 PCBM Shielding ,19,6.8,6.96,0.16,210.0000,3.238860,5.16,ss,0.548030,12,10K 304L SS,Acceptable,,2,2 Piece Lexan,0.5350,5.5,1,0.5319
+.50 Cal,17108,1733,3/16/2017,ISS,ISS PMA3 PCBM Shielding ,7,6.8,6.61,-0.19,200.0000,3.067500,9.13,al,1.114500,12,10K 304L SS,Acceptable,,2,2 Piece Lexan,0.5347,5,1,0.5319
+.50 Cal,17107,1733,3/14/2017,ISS,ISS PMA3 PCBM Shielding ,16,7,6.76,-0.24,216.0000,3.283570,10.32,al,,8,,Unacceptable,LP Break-Up,2,,0.5765,5.5000,1,0.5617
+.50 Cal,17028,1732,3/13/2017,ISS,ISS MT Rail Analog High Obliquity and Double Plate Assured Translation Test ,6,7,6.73,-0.27,158.0000,1.078230,1.60,SS,,9,,Unacceptable,Velocity Low,2,,0.5265,3.5000,1,0.5202
+.50 Cal,17103,1731,3/9/2017,BOE,CCP SpaceX Crew Dragon Draco Nozzle HVI Test Program,5,7,6.88,-0.12,158.5000,1.168850,1.49,ss,,9,,Acceptable,,2,,0.5256,3.5000,1,0.5202
+.50 Cal,17091,1730,3/8/2017,BOE,CCP Inspection of Thermal Protection System,9,7,7.24,0.24,160.6000,1.202220,2.50,ss,,9,,Unacceptable,Velocity High,2,,0.5265,4.0000,1,0.5202
+.50 Cal,17027,1729,3/7/2017,ISS,ISS MT Rail Analog High Obliquity and Double Plate Assured Translation Test ,5,7,6.97,-0.03,160.2000,1.187950,2.00,ss,,9,,Acceptable,,2,,0.5265,3.5000,1,0.5202
+.50 Cal,17087,1728,3/7/2017,BOE,CCP Inspection of Thermal Protection System,5,7,7.14,0.14,160.6000,1.202520,2.20,ss,,9,,Acceptable,,2,,0.5265,3.5000,1,0.5202
+.50 Cal,17062,1727,3/6/2017,ESA,MPCV ESM RA Mass Reduction HVI Test Program,3,7,6.84,-0.16,159.0000,1.221100,5.12,Nylon,,9,,Acceptable,,2,,0.5260,7.5000,1,0.5202
+.50 Cal,17083,1726,3/2/2017,BOE,CCP Inspection of Thermal Protection System,1,7,7.02,0.02,160.2000,1.155890,1.80,SS,,9,,Acceptable,,2,,0.5255,7.5000,1,0.5202
+.50 Cal,17040,1725,2/17/2017,ISS,ISS MT Rail Analog High Obliquity and Double Plate Assured Translation Test ,18,7,6.99,-0.01,160.6000,1.191890,1.50,ss,,9,10,Acceptable,,#REF!,,0.5255,4.2500,1,0.5202
+.50 Cal,16531,1724,2/16/2017,esa,MPCV ESM RA Mass Reduction HVI Test Program,3,7,7.19,0.19,161.5000,1.244480,4.36,al,,9,10,Acceptable,,#REF!,,0.5255,4.2500,1,0.5202
+.50 Cal,17046,1723,2/14/2017,ISS,ISS MT Rail Analog High Obliquity and Double Plate Assured Translation Test ,24,7,7.10,0.10,161.2000,1.173160,1.70,ss,,9,10,Acceptable,,#REF!,,0.5255,3.5000,1,0.5202
+.50 Cal,17045,1722,2/8/2017,ISS,ISS MT Rail Analog High Obliquity and Double Plate Assured Translation Test ,23,7,7.10,0.10,160.5000,1.140230,1.60,ss,,9,10,Acceptable,,#REF!,,0.5255,3.2500,1,0.5202
+.50 Cal,16554,1721,2/7/2017,ESA,MPCV ESM RA Mass Reduction HVI Test Program,26,7,7.12,0.12,161.2000,1.187410,1.49,ss,,9,10,Acceptable,,#REF!,,4.2500,,1,0.5202
+.50 Cal,17044,1720,2/2/2017,ISS,ISS MT Rail Analog High Obliquity and Double Plate Assured Translation Test ,22,7,7.21,0.21,161.9000,1.176480,1.18,ss,,9,10,Unacceptable,Velocity High,#REF!,,,3.7500,1,0.5202
+.50 Cal,17039,1719,2/1/2017,ISS,ISS MT Rail Analog High Obliquity and Double Plate Assured Translation Test ,17,7,7.01,0.01,162.0000,1.173490,1.40,ss,,9,10,Acceptable,,#REF!,,0.5255,3.0000,1,0.5202
+.50 Cal,17038,1718,1/26/2017,ISS,ISS MT Rail Analog High Obliquity and Double Plate Assured Translation Test ,16,7,7.10,0.10,162.9000,1.274570,2.00,SS,,9,10,Acceptable,,#REF!,,0.5255,4.7500,1,0.5202
+.50 Cal,16536,1717,1/24/2017,ESA,MPCV ESM RA Mass Reduction HVI Test Program,8,7,6.99,-0.01,164.8000,1.427600,4.10,al,,9,10,Acceptable,,#REF!,,0.5255,4.7500,1,0.5202
+.50 Cal,16535,1716,1/20/2017,ESA,MPCV ESM RA HVI test program phase -1,7,7,6.99,-0.01,165.3000,1.486080,4.90,al,,9,10,Acceptable,,#REF!,,0.5225,3.5000,1,0.5202
+.50 Cal,16543,1715,1/19/2017,ESA,MPCV ESM RA HVI test program phase -1,15,7,7.15,0.15,162.0000,1.189760,5.47,Nylon,,9,10,Acceptable,,#REF!,,3.5000,3.5000,1,0.5202
+.50 Cal,16553,1714,1/18/2017,ESA,MPCV ESM RA HVI test program phase -1,25,7,7.12,0.12,162.5000,1.172620,1.89,ss,,9,10,Acceptable,,#REF!,,0.5250,5.5000,1,0.5202
+.50 Cal,16551,1713,1/11/2017,ESA,MPCV ESM RA HVI test program phase -1,23,7,7.11,0.11,163.0000,1.163680,1.72,ss,,9,10,Acceptable,,#REF!,,0.5245,4.7500,1,0.5202
+.50 Cal,16542,1712,1/10/2017,ESA,MPCV ESM RA HVI test program phase -1,14,7,6.99,-0.01,162.9000,1.265420,4.78,Nylon,,9,10,Acceptable,,#REF!,,0.5235,8.0000,1,0.5202
+.50 Cal,16438,1711,1/9/2017,BOE,Characterize Response of CST - 100 Thermal Protection System ,18,4,3.52,-0.48,92.5000,1.147540,1.80,SS,,9,10,Unacceptable,Velocity Low,#REF!,,0.5225,9.0000,1,0.5202
+.50 Cal,16550,1710,1/5/2017,ESA,MPCV ESM RA HVI test program phase -1,22,7,6.97,-0.03,163.0000,1.125000,1.49,SS,,9,10,Acceptable,,#REF!,,0.5255,4.7500,1,0.5202
+.50 Cal,16437,1709,1/4/2017,BOE,Characterize Response of CST - 100 Thermal Protection System ,17,4,3.61,-0.39,90.6000,1.278990,2.20,ss,,9,2,Unacceptable,Velocity Low,#REF!,,0.5255,0.5255,1,0.5202
+.50 Cal,16436,1708,12/21/2016,BOE,Characterize Response of CST - 100 Thermal Protection System ,16,4,3.73,-0.27,88.4100,1.258860,2.00,ss,,9,2,Unacceptable,Velocity Low,#REF!,,0.5255,3.5000,1,0.5202
+.50 Cal,16492,1707,12/20/2016,ESA,MPCV ESM RA HVI test program phase -1,15,6.9,7.13,0.23,162.9000,1.291330,5.47,Nylon,,9,10,Unacceptable,Velocity High,#REF!,,0.5255,4.0000,1,0.5202
+.50 Cal,16434,1706,12/19/2016,BOE,Characterize Response of CST - 100 Thermal Protection System ,14,7,7.08,0.08,163.2000,1.324040,2.80,ss,,9,10,Acceptable,,#REF!,,0.5255,2.7500,1,0.5202
+.50 Cal,16435,1705,12/14/2016,BOE,Characterize Response of CST - 100 Thermal Protection System ,15,4,3.80,-0.20,83.5000,1.298840,2.29,ss,,9,2,Acceptable,,#REF!,,0.5255,3.2500,1,0.5202
+.50 Cal,16219-d,1704,12/13/2016,ISS,ISS Photovoltaic Radiator Panel Inconel Pressurized Flow Tube BL Study,39,7,7.07,0.07,162.0000,1.054260,4.00,Nylon,,9,10,Acceptable,,#REF!,,0.2250,5.2500,1,0.5202
+.50 Cal,16433,1703,12/12/2016,BOE,Characterize Response of CST - 100 Thermal Protection System ,13,7,7.01,0.01,163.7000,1.293880,2.50,ss,,9,10,Acceptable,,#REF!,,0.5255,3.7500,1,0.5202
+.50 Cal,16278-B,1702,12/9/2016,ISS,ISS Photovoltaic Radiator Panel Inconel Pressurized Flow Tube BL Study,43,5.5,5.58,0.08,115.7000,1.056460,4.37,Nylon,,9,10,Unacceptable,Aim Point Tolerance,#REF!,,0.5255,4.2500,1,0.5202
+.50 Cal,16276-c,1701,12/8/2016,ISS,ISS Photovoltaic Radiator Panel Inconel Pressurized Flow Tube BL Study,41,5.5,5.77,0.27,116.4000,1.056100,4.00,Nylon,,9,10,Unacceptable,Velocity High,#REF!,,0.5255,3.7500,1,0.5202
+.50 Cal,16430,1700,12/7/2016,BOE,Characterize Response of CST - 100 Thermal Protection System ,10,7,7.14,0.14,163.9000,1.289410,2.50,SS,,9,10,Acceptable,,#REF!,,0.5255,5.0000,1,0.5202
+.50 Cal,16429,1699,12/6/2016,BOE,Characterize Response of CST - 100 Thermal Protection System ,9,7,7.07,0.07,164.1000,1.309160,2.77,ss,,9,10,Acceptable,,#REF!,,0.5255,3.0000,1,0.5202
+.50 Cal,16424,1698,12/5/2016,BOE,Characterize Response of CST - 100 Thermal Protection System ,4,7,7.07,0.07,163.9000,1.280650,2.29,ss,,9,10,Acceptable,,#REF!,,0.5255,4.0000,1,0.5202
+.50 Cal,16428,1697,11/30/2016,BOE,Characterize Response of CST - 100 Thermal Protection System ,8,7,7.11,0.11,164.1000,1.291390,2.50,ss,,9,10,Acceptable,,#REF!,,0.5255,4.0000,1,0.5202
+.50 Cal,16423,1696,11/29/2016,BOE,Characterize Response of CST - 100 Thermal Protection System ,3,7,7.07,0.07,164.5000,1.326930,3.00,ss,,9,10,Acceptable,,#REF!,,0.5250,2.5000,1,0.5202
+.50 Cal,16422,1695,11/22/2016,BOE,Characterize Response of CST - 100 Thermal Protection System ,2,7,7.00,0.00,164.0000,1.285400,2.10,ss,,9,10,Unacceptable,Aim Point Tolerance,#REF!,,0.5250,2.5000,1,0.5202
+.50 Cal,16277-E,1694,11/17/2016,ISS,ISS Photovoltaic Radiator Panel Inconel Pressurized Flow Tube BL Study,42,5.5,5.44,-0.06,116.3000,1.031890,4.00,Nylon,,9,10,Acceptable,,#REF!,,0.5240,10.5000,1,0.5202
+.50 Cal,16277-D,1693,11/15/2016,ISS,ISS Photovoltaic Radiator Panel Inconel Pressurized Flow Tube BL Study,42,5.5,5.58,0.08,117.0000,1.243710,4.00,Nylon,,9,10,Unacceptable,Impacted Stripper,#REF!,,0.5230,10.5000,1,0.5202
+.50 Cal,16491,1692,11/10/2016,ISS,ISS PMA3 PCBM Shielding ,15,6.8,6.75,-0.05,227.0000,3.592910,10.32,al,,8,10,Acceptable,,#REF!,,0.5730,6.7500,1,0.5617
+.50 Cal,16490,1691,11/9/2016,ISS,ISS PMA3 PCBM Shielding ,14,6.8,6.78,-0.02,227.0000,3.588380,10.32,al,,8,10,Acceptable,,#REF!,,5.7250,6.5000,1,0.5617
+.50 Cal,16474,1690,11/8/2016,ISS,ISS PMA3 PCBM Shielding ,8,6.8,6.69,-0.11,210.0000,3.208500,9.13,al,,8,10,Acceptable,,#REF!,,5.7200,6.5000,1,0.5617
+.50 Cal,16472,1689,11/8/2016,ISS,ISS PMA3 PCBM Shielding ,6,6.8,6.82,0.02,198.0000,3.007810,8.33,al,,8,10,Acceptable,,#REF!,,0.5720,6.0000,1,0.5617
+.50 Cal,16478,1688,11/7/2016,ISS,ISS PMA3 PCBM Shielding ,12,6.8,7.03,0.23,197.6000,2.427720,5.00,ss,,8,10,Acceptable,,#REF!,,0.5715,6.7500,1,0.5617
+.50 Cal,16471,1687,11/2/2016,ISS,ISS PMA3 PCBM Shielding ,5,6.8,6.85,0.05,225.0000,3.571330,10.32,al,,8,10,Acceptable,,#REF!,,0.5715,5.7500,1,0.5617
+.50 Cal,16470,1686,10/31/2016,ISS,ISS PMA3 PCBM Shielding ,4,6.8,6.85,0.05,225.0000,3.571050,10.32,al,,8,10,Acceptable,,#REF!,,0.5715,6.0000,1,0.5617
+.50 Cal,16468,1685,10/31/2016,ISS,ISS PMA3 PCBM Shielding ,2,6.8,6.78,-0.02,225.0000,3.581980,10.32,al,,8,10,Acceptable,,#REF!,,0.5705,5.0000,1,0.5617
+.50 Cal,16469,1684,10/28/2016,ISS,ISS PMA3 PCBM Shielding ,3,6.8,6.55,-0.25,222.0000,3.563030,10.32,al,,8,10,Unacceptable,Velocity High,#REF!,,0.5700,5.5000,1,0.5617
+.50 Cal,16467,1683,10/26/2016,ISS,ISS PMA3 PCBM Shielding ,1,6.8,6.84,0.04,222.0000,3.572630,10.32,al,,8,10,Acceptable,,#REF!,,5.6950,4.7500,1,0.5617
+.50 Cal,CAL,1682,10/25/2016,CLS,Barrel Checkout,,6.8,6.40,-0.40,220.0000,3.891260,10.71,al,,3,10,Unacceptable,Velocity Low,#REF!,,0.5915,9.7500,0,
+.50 Cal,16277-C,1681,10/20/2016,ISS,ISS Photovoltaic Radiator Panel Inconel Pressurized Flow Tube BL Study,42,5.5,5.56,0.06,116.7000,1.213140,4.00,Nylon,,14,10,Unacceptable,Aim Point Tolerance,#REF!,,0.5175,9.25,1,0.5117
+.50 Cal,15403-B,1680,10/18/2016,ESA,MPCV ESM MDPS_ cov HVI Test Program Ph-1,1,7,7.12,0.12,164.5000,1.222140,4.32,Nylon,,14,10,Acceptable,,#REF!,,5.1750,9.0000,1,0.5117
+.50 Cal,16427,1679,10/13/2016,BOE,Characterize Response of CST - 100 Thermal Protection System ,7,7,7.15,0.15,165.5000,1.243150,2.20,ss,,14,10,Acceptable,,#REF!,,0.5175,4.7500,1,0.5117
+.50 Cal,16421,1678,10/5/2016,BOE,Characterize Response of CST - 100 Thermal Protection System ,1,7,7.17,0.17,163.0000,1.120650,1.80,SS,,14,10,Acceptable,,#REF!,,0.5165,10.2500,1,0.5117
+.50 Cal,16447,1677,9/28/2016,ESA,,,6.9,6.93,0.03,164.5000,1.227250,5.47,Nylon,,14,10,Acceptable,,#REF!,,0.5165,10.0110,1,0.5117
+.50 Cal,16219-C,1676,9/22/2016,ISS,,,7,7.05,0.05,163.5000,1.117370,4.00,Nylon,,14,10,Acceptable,,#REF!,,0.5165,5.0000,1,0.5117
+.50 Cal,15168,1675,9/20/2016,ISS,,,7,7.04,0.04,163.0000,1.132820,1.79,ss,,14,10,Acceptable,,#REF!,,0.5165,4.0000,1,0.5117
+.50 Cal,16277-B,1674,9/19/2016,ISS,,,5.5,5.55,0.05,117.0000,1.145030,4.00,Nylon,,9,10,Unacceptable,,#REF!,,0.5230,4.0000,1,0.5202
+.50 Cal,16276-B,1673,9/15/2016,ISS,,,5.5,5.51,0.01,117.0000,1.147180,4.00,Nylon,,9,10,Acceptable,,#REF!,,0.5230,6.2500,1,0.5202
+.50 Cal,16383-B,1672,9/13/2016,ESA,,,7,7.07,0.07,166.5000,1.228540,4.78,Nylon,,14,10,Acceptable,,#REF!,,0.5165,3.8750,1,0.5117
+.50 Cal,13263,1671,9/8/2016,ISS,,,7,7.08,0.08,162.5000,1.121680,1.59,ss,,14,10,Acceptable,,#REF!,,0.5160,7.0000,1,0.5117
+.50 Cal,16093,1670,9/7/2016,ESA,,,7,7.06,0.06,163.0000,1.121700,1.49,ss,,14,10,Acceptable,,#REF!,,0.5160,6.7500,1,0.5117
+.50 Cal,15503-b,1669,9/2/2016,ESA,,,7,7.14,0.14,164.0000,1.123830,1.59,ss,,14,10,Acceptable,,#REF!,,0.5155,10.5000,1,0.5117
+.50 Cal,15503,1668,9/1/2016,ESA,,,7,7.24,0.24,165.0000,1.116120,1.59,ss,,14,10,Unacceptable,,#REF!,,0.5150,7.2500,1,0.5117
+.50 Cal,CAL,1667,8/31/2016,CLS,,,7,7.00,0.00,166.0000,1.121300,1.60,ss,,14,10,Acceptable,,#REF!,,0.5145,7.0000,1,0.5117
+.50 Cal,16219-B,1666,8/30/2016,ISS,,,7,7.07,0.07,168.0000,1.209720,4.00,Nylon,,14,10,Acceptable,,#REF!,,,6.0000,1,0.5117
+.50 Cal,16219,1665,8/29/2016,ISS,,,7,7.04,0.04,169.0000,1.251420,4.00,Nylon,,14,10,Unacceptable,,#REF!,,0.5130,6.0000,1,0.5117
+.50 Cal,16375,1664,8/25/2016,VIO,,,7,6.96,-0.04,177.0000,1.612860,1.89,ss,,14,10,Acceptable,,#REF!,,0.5130,6.0000,1,0.5117
+.50 Cal,16383,1663,8/24/2016,ESA,,,7,6.68,-0.32,160.0000,1.220100,4.78,Nylon,,14,10,Unacceptable,,#REF!,,5.1250,6.0000,1,0.5117
+.50 Cal,16278,1662,8/22/2016,ISS,,,5.5,5.73,0.23,117.5000,1.250850,4.37,Nylon,,9,10,Unacceptable,,#REF!,,0.5230,5.5000,1,0.5202
+.50 Cal,16277,1661,8/17/2016,ISS,,,5.5,5.42,-0.08,117.0000,1.239100,4.00,Nylon,,9,10,Unacceptable,,#REF!,,0.5225,5.0000,1,0.5202
+.50 Cal,16276,1660,8/16/2016,ISS,,,5.5,5.6,0.10,116.5000,1.243890,4.00,Nylon,,9,10,Unacceptable,,#REF!,,0.5225,5.2500,1,0.5202
+.50 Cal,CAL,1659,8/11/2016,CLS,,,5.5,5.81,0.31,116.5000,1.167100,1.40,ss,,9,10,,,#REF!,,0.5225,6.5000,1,0.5202
+.50 Cal,16127-B,1658,8/8/2016,ESA,,,5,5.01,0.01,106.0000,1.349450,5.01,Nylon,,9,10,Acceptable,,#REF!,,0.0000,5.5000,1,0.5202
+.50 Cal,16129,1657,7/28/2016,ESA,,,5,5.15,0.15,106.0000,1.517200,6.34,Nylon,,9,10,Acceptable,,#REF!,,0.5225,4.7500,1,0.5202
+.50 Cal,16183,1656,7/27/2016,ISS,,,5.5,5.47,-0.03,118.0000,1.300200,4.00,Nylon,,9,10,Acceptable,,#REF!,,0.5225,5.5000,1,0.5202
+.50 Cal,16189,1655,7/26/2016,ISS,,,5.5,5.45,-0.05,117.0000,1.259320,4.00,Nylon,,9,10,Acceptable,,#REF!,,,,1,0.5202
+.50 Cal,16187,1654,7/25/2016,ISS,,,5.5,5.3,-0.20,116.9000,1.256500,4.00,Nylon,,9,10,Acceptable,,#REF!,,0.5225,6.5000,1,0.5202
+.50 Cal,16186,1653,7/22/2016,ISS,,,5.5,5.61,0.11,116.9000,1.255990,4.00,Nylon,,9,10,Acceptable,,#REF!,,0.5225,5.2500,1,0.5202
+.50 Cal,CAL,1652,7/21/2016,CLS,,,5.5,5.16,-0.34,110.0000,1.253020,3.97,Nylon,,9,10,,,#REF!,,0.5225,5.2500,1,0.5202
+.50 Cal,CAL,1649,7/6/2016,CLS,,,5.5,5.28,-0.22,124.2000,2.085870,4.00,Nylon,,9,10,Unacceptable,,#REF!,,0.5205,4.0000,1,0.5202
+.50 Cal,CAL,1648,6/28/2016,CLS,,,5.5,5.35,-0.15,118.0000,1.761290,4.00,Nylon,,13,10,Unacceptable,,#REF!,,0.5030,5.0000,1,0.5034
+.50 Cal,CAL,1647,6/27/2016,CLS,,,5,4.99,-0.01,108.0000,1.777300,4.00,Nylon,,13,10,Acceptable,,#REF!,,0.5030,4.0000,1,0.5034
+.50 Cal,16127,1646,6/23/2016,ESA,,,5,5.37,0.37,123.5000,1.983340,5.01,Nylon,,13,10,Unacceptable,,#REF!,,0.5030,4.0000,1,0.5034
+.50 Cal,15619C,1645,6/15/2016,ISS,,,5.5,5.50,0.00,124.0000,1.976630,4.00,Nylon,,13,10,Unacceptable,,#REF!,,0.5030,5.2500,1,0.5034
+.50 Cal,15619B,1644,6/13/2016,,,,5.5,3.57,-1.93,124.0000,1.990400,4.00,Nylon,,13,10,Unacceptable,,#REF!,,0.5037,1.0000,1,0.5034
+.50 Cal,15570B,1643,6/2/2016,ISS,,,5.5,5.37,-0.13,123.5000,1.951270,4.00,Nylon,,13,10,Unacceptable,,#REF!,,0.5037,4.5000,1,0.5034
+.50 Cal,15620,1642,5/31/2016,ISS,,,5.5,5.35,-0.15,124.0000,1.997700,4.00,Nylon,,14,10,Unacceptable,,#REF!,,0.5080,10.5000,1,0.502
+.50 Cal,15619,1641,5/27/2016,ISS,,,5.5,5.52,0.02,124.0000,2.014750,4.00,Nylon,,14,10,Acceptable,,#REF!,,0.5080,5.0000,1,0.502
+.50 Cal,15618,1640,5/26/2016,ISS,,,5.5,5.53,0.03,124.0000,1.988470,4.00,Nylon,,14,10,Acceptable,,#REF!,,0.5075,7.0000,1,0.502
+.50 Cal,16122,1639,5/25/2016,ESA,,,7,7.08,0.08,200.0000,2.002090,4.78,Nylon,,14,10,Acceptable,,#REF!,,0.5065,7.6250,1,0.502
+.50 Cal,16130,1638,5/24/2016,ESA,,,7,7.12,0.12,200.0000,2.041670,6.72,Nylon,,14,10,Acceptable,,#REF!,,0.5060,5.0000,1,0.502
+.50 Cal,16128,1637,5/23/2016,ESA,,,7,7.00,0.00,200.0000,2.052640,4.20,Nylon,,14,10,Acceptable,,#REF!,,0.5050,8.0000,1,0.502
+.50 Cal,15516E,1636,5/19/2016,ESA,,,7,7.09,0.09,201.0000,1.978580,5.01,Nylon,,14,10,Acceptable,,#REF!,,0.5040,7.5000,1,0.502
+.50 Cal,16119B,1635,5/17/2016,ESA,,,7,7.11,0.11,198.1000,2.017570,5.95,Nylon,,14,10,Acceptable,,#REF!,,0.5040,3.0000,1,0.502
+.50 Cal,15516D,1634,5/12/2016,ESA,,,7,6.76,-0.24,198.0000,1.974560,5.01,Nylon,,14,10,Unacceptable,,#REF!,,0.5020,6.5000,1,0.5012
+.50 Cal,16121,1633,5/11/2016,ESA,,,7,6.93,-0.07,198.0000,2.016890,7.13,Nylon,,14,10,Acceptable,,#REF!,,0.5015,4.2500,1,0.5012
+.50 Cal,16126,1632,5/10/2016,ESA,,,7,7.12,0.12,201.0000,1.997430,7.12,Nylon,,13,10,Acceptable,,#REF!,,4.9900,6.2500,1,0.4936
+.50 Cal,16120,1631,5/9/2016,EIO,,,7,7.12,0.12,203.0000,1.965560,6.35,Nylon,,13,10,Acceptable,,#REF!,,0.4975,6.5000,1,0.4936
+.50 Cal,CAL,1630,5/5/2016,CLS,,,7,7.03,0.03,200.0000,1.932200,5.52,Nylon,,13,10,Acceptable,,#REF!,,0.4965,9.5000,1,0.4936
+.50 Cal,CAL,1629,5/4/2016,CLS,,,7,7.11,0.11,202.5000,1.941600,5.52,Nylon,,13,10,,,#REF!,,0.4965,4.5000,1,0.4936
+.50 Cal,16063,1628,5/3/2016,HSXS,,,7,7.00,0.00,203.0000,1.973490,4.20,al,,13,10,Acceptable,,#REF!,,0.4950,7.0000,1,0.4936
+.50 Cal,CAL,1627,5/2/2016,CLS,,,7,6.73,-0.27,196.0000,1.967800,3.97,al,,13,10,Unacceptable,,#REF!,,0.4950,4.0000,1,0.4936
+.50 Cal,16060,1626,4/28/2016,HSXS,,,7,5.35,-1.65,206.0000,2.671770,4.20,al,,7,10,Unacceptable,,#REF!,,0.5935,6.5000,1,0.5907
+.50 Cal,CAL,1625,4/26/2016,CLS,,,7,7.12,0.12,206.0000,2.609700,4.00,al,,4,10,Unacceptable,,#REF!,,0.5875,4.5000,1,0.58
+.50 Cal,16119,1624,4/7/2016,ESA,,,7,7.00,0.00,206.0000,2.565280,5.47,Nylon,,4,10,Unacceptable,,#REF!,,0.5845,7.6250,1,0.58
+.50 Cal,15516C,1623,4/6/2016,ESA,,,7,7.04,0.04,206.0000,2.534170,5.01,Nylon,,4,10,Unacceptable,,#REF!,,0.5845,7.2500,1,0.58
+.50 Cal,15624,1622,4/5/2016,ESA,,,7,4.77,-2.23,206.0000,2.532260,5.48,Nylon,,4,10,Unacceptable,,#REF!,,0.5835,7.5000,1,0.58
+.50 Cal,15615,1621,4/4/2016,ESA,,,7,7.06,0.06,206.2000,2.643310,3.97,Nylon,,4,10,Acceptable,,#REF!,,0.5835,4.0000,1,0.58
+.50 Cal,16118,1620,3/31/2016,ESA,,,7,7.04,0.04,206.0000,2.588800,5.14,Nylon,,4,10,Acceptable,,#REF!,,0.5825,8.0000,1,0.58
+.50 Cal,16065B,1619,3/30/2016,HSXS,,,7,7.14,0.14,206.5000,2.598260,4.10,Nylon,,4,10,Acceptable,,#REF!,,0.5825,4.0000,1,0.58
+.50 Cal,16065,1618,3/29/2016,HSXS,,,7,6.91,-0.09,199.5000,1.897050,4.10,Nylon,,14,10,Unacceptable,,#REF!,,0.4950,17.0000,1,0.4886
+.50 Cal,15570,1617,3/23/2016,ISS,,,5.5,5.05,-0.45,115.0000,1.910040,4.00,Nylon,,14,10,Unacceptable,,#REF!,,0.4990,5.5000,1,0.4886
+.50 Cal,CAL,1616,3/22/2016,CLS,,,7,7.01,0.01,199.2000,1.926000,4.00,al,,14,10,Acceptable,,#REF!,,0.4985,4.5000,1,0.4886
+.50 Cal,CAL,1615,3/21/2016,CLS,,,7,6.97,-0.03,199.0000,1.926000,4.00,Nylon,,14,10,Unacceptable,,#REF!,,0.4975,6.0000,1,0.4886
+.50 Cal,15505C,1614,3/17/2016,MPCV ESM RFC,,,7,7.06,0.06,198.1000,1.908820,3.97,al,,14,10,Acceptable,,#REF!,,0.4970,4.5000,1,0.4886
+.50 Cal,15518,1613,3/15/2016,MPCV ESM RFC,,,7,6.97,-0.03,198.0000,1.900950,3.70,al,,14,10,Acceptable,,#REF!,,0.4960,5.0000,1,0.4886
+.50 Cal,15516B,1612,3/14/2016,MPCV ESM RFC,,,7,6.98,-0.02,198.0000,1.868100,5.01,Nylon,,14,10,Unacceptable,,#REF!,,0.4950,6.5000,1,0.4886
+.50 Cal,15511,1611,3/10/2016,MPCV ESM RFC,,,4,3.74,-0.26,83.5000,1.850240,4.37,Nylon,,14,10,Unacceptable,,#REF!,,0.4940,7.5000,1,0.4886
+.50 Cal,15505B,1610,3/8/2016,MPCV ESM RFC,,,7,7.10,0.10,198.1000,1.910820,3.97,al,,14,10,Unacceptable,,#REF!,,0.4935,4.2500,1,0.4886
+.50 Cal,15516,1609,3/2/2016,MPCV ESM RFC,,,7,7.07,0.07,198.0000,1.858550,5.01,Nylon,,14,10,Unacceptable,,#REF!,,0.4930,4.7500,1,0.4886
+.50 Cal,15510,1608,3/1/2016,MPCV ESM RFC,,,4,3.94,-0.06,83.6000,1.861900,5.01,Nylon,,14,10,Acceptable,,#REF!,,0.4920,7.0000,1,0.4886
+.50 Cal,15505,1607,2/25/2016,MPCV ESM RFC,,,7,7.05,0.05,198.1000,1.903440,3.97,al,,14,10,Unacceptable,,#REF!,,0.4920,3.5000,1,0.4886
+.50 Cal,15517B,1606,2/24/2016,MPCV ESM RFC,,,7,7.04,0.04,198.0000,1.886820,3.89,al,,14,10,Acceptable,,#REF!,,0.4910,4.2500,1,0.4886
+.50 Cal,15502,1605,2/23/2016,MPCV ESM RFC,,,7,7.01,0.01,198.0000,1.868850,2.20,ss,,14,10,Acceptable,,#REF!,,0.4900,4.5000,1,0.4886
+.50 Cal,15507B,1604,2/22/2016,MPCV ESM RFC,,,4,4.09,0.09,83.5000,1.808170,4.78,Nylon,,14,10,Acceptable,,#REF!,,0.4890,5.0000,1,0.4886
+.50 Cal,15495B,1603,2/19/2016,MPCV ESM RFC,,,7,6.78,-0.22,197.9000,1.807540,1.89,ss,,14,10,Unacceptable,,#REF!,,0.4880,3.5000,1,0.4886
+.50 Cal,15517,1602,2/18/2016,MPCV ESM RFC,,,7,6.28,-0.72,197.9000,1.865110,3.89,al,,13,10,Unacceptable,,#REF!,,0.4900,5.0000,1,0.487
+.50 Cal,15515,1601,2/16/2016,MPCV ESM RFC,,,7,7.05,0.05,197.9000,1.843140,5.47,Nylon,,13,10,Acceptable,,#REF!,,0.4890,5.0000,1,0.487
+.50 Cal,16062,1600,2/10/2016,HSXS,,,7,7.05,0.05,199.0000,1.975300,1.99,ss,,13,10,Acceptable,,#REF!,,0.4880,4.5000,1,0.487
+.50 Cal,16059,1599,2/9/2016,HSXS,,,7,6.90,-0.10,198.0000,1.930510,3.54,ss,,13,10,Acceptable,,#REF!,,0.4870,4.7500,1,0.487
+.50 Cal,15507,1597,2/3/2016,MPCV ESM RFC,,,4,4.14,0.14,88.0000,1.801360,4.78,Nylon,,13,10,Acceptable,,#REF!,,0.4870,5.0000,1,0.487
+.50 Cal,15608,1596,1/28/2016,MPCV ESM MDPS sw and ta,,,7,7.12,0.12,198.0000,2.030750,4.78,Nylon,,9,10,Acceptable,,#REF!,,0.5170,5.7500,1,0.512
+.50 Cal,15495,1595,1/26/2016,MPCV ESM RFC,,,7,7.13,0.13,198.1000,2.060330,1.89,ss,,9,10,Acceptable,,#REF!,,0.5165,6.0000,1,0.512
+.50 Cal,15626,1594,1/22/2016,MPCV WQCE Pad,,,7,6.95,-0.05,198.1000,2.075880,4.50,al,,9,10,Acceptable,,#REF!,,0.5150,10.0000,1,0.512
+.50 Cal,15399,1593,1/19/2016,MPCV ESM RA ,,,7,7.03,0.03,198.0000,2.001400,3.98,Nylon,,9,10,Acceptable,,#REF!,,0.5140,7.2500,1,0.512
+.50 Cal,CAL,1592,1/13/2016,CLS,,,7,7.06,0.06,198.0000,1.978430,3.97,Nylon,,9,10,Acceptable,,#REF!,,0.5135,6.5000,1,0.512
+.50 Cal,CAL,1591,1/11/2016,CLS,,,7,6.98,-0.02,199.5000,2.216600,5.95,al,,9,10,Acceptable,,#REF!,,0.5135,4.7500,1,0.512
+.50 Cal,CAL,1590,12/9/2015,CLS,,,7,6.91,-0.09,198.0000,1.972300,3.99,Nylon,,9,10,Unacceptable,,#REF!,,0.5120,7.7500,1,0.512
+.50 Cal,15444,1589,12/8/2015,MPCV ESM RFC ,,,7,7.11,0.11,204.0000,2.485210,4.37,Nylon,,4,10,Acceptable,,#REF!,,0.5820,6.2500,1,0.58
+.50 Cal,15396,1588,12/7/2015,MPCVESM RA ,,,7,7.08,0.08,206.0000,2.560850,5.47,Nylon,,4,10,Acceptable,,#REF!,,0.5820,4.1250,1,0.58
+.50 Cal,15583,1587,11/19/2015,MPCV ESM MDPS sw-ta,,,7,7.08,0.08,205.0000,2.510550,5.13,Nylon,,4,10,Acceptable,,#REF!,,0.5815,5.2500,1,0.58
+.50 Cal,15584,1586,11/18/2015,MPCV ESM MDPS sw-ta,,,7,7.14,0.14,208.0000,2.553900,3.97,al,,4,10,Acceptable,,#REF!,,0.5815,4.0000,1,0.58
+.50 Cal,15582,1585,11/17/2015,MPCV ESM MDPS sw-ta,,,7,7.04,0.04,207.0000,2.544560,6.35,Nylon,,4,10,Acceptable,,#REF!,,0.5815,3.5000,1,0.58
+.50 Cal,CAL,1584,11/12/2015,CLS,,,7,7.10,0.10,198.0000,2.015630,3.98,Nylon,,9,10,Unacceptable,,#REF!,,0.5090,5.5000,1,0.505
+.50 Cal,15403,1583,11/10/2015,MPCV ESM MDPS cov,,,7,7.06,0.06,198.3000,1.944500,4.00,Nylon,,9,10,Unacceptable,,#REF!,,0.5080,8.0000,1,0.505
+.50 Cal,15581,1582,11/9/2015,MPCV ESM MDPS sw-ta,,,7,6.99,-0.01,199.5000,2.201960,4.35,al,,11,10,Acceptable,,#REF!,,0.5330,6.7500,1,0.529
+.50 Cal,15577,1581,11/4/2015,MPCV ESM MDPS sw-ta,,,7,7.01,0.01,199.0000,2.145760,4.78,Nylon,,11,10,Acceptable,,#REF!,,0.5330,3.5000,1,0.529
+.50 Cal,15576,1580,11/3/2015,MPCV ESM MDPS sw-ta,,,7,6.92,-0.08,199.0000,2.172610,6.35,Nylon,,11,10,Acceptable,,#REF!,,0.5320,5.7500,1,0.529
+.50 Cal,CAL,1579,10/30/2015,CLS,,,7,6.72,-0.28,198.0000,1.906300,3.95,Nylon,,9,10,Acceptable,,#REF!,,0.5080,4.7500,1,0.505
+.50 Cal,CAL,1578,10/16/2015,CLS,,,7,7.07,0.07,198.0000,1.952450,3.99,Nylon,,9,10,Acceptable,,#REF!,,0.5070,7.0000,1,0.505
+.50 Cal,CAL,1577,10/15/2015,CLS,,,7,7.06,0.06,198.0000,1.909700,3.99,Nylon,,9,10,Acceptable,,#REF!,,0.5065,5.5000,1,0.505
+.50 Cal,15579,1576,10/13/2015,MPCV ESM MDPS sw-ta,,,7,7.00,0.00,199.2000,2.514090,4.70,al,,8,10,Acceptable,,#REF!,,0.5710,5.0000,1,0.5617
+.50 Cal,15578,1575,10/8/2015,MPCV ESM MDPS sw-ta,,,7,6.98,-0.02,199.2000,2.469480,4.70,al,,8,10,Acceptable,,#REF!,,0.5690,10.0000,1,0.5617
+.50 Cal,CAL,1574,10/7/2015,CLS,,,7,7.08,0.08,199.0000,2.408700,3.97,Nylon,,8,10,Unacceptable,,#REF!,,0.5675,7.5000,1,0.5617
+.50 Cal,CAL,1573,10/6/2015,CLS,,,7,6.97,-0.03,199.0000,2.404800,3.99,Nylon,,8,10,Unacceptable,,#REF!,,0.5670,7.0000,1,0.5617
+.50 Cal,CAL,1572,10/5/2015,CLS,,,7,7.03,0.03,199.0000,2.415500,3.99,Nylon,,8,10,Acceptable,,#REF!,,0.5670,6.5000,1,0.5617
+.50 Cal,15496,1571,9/17/2015,MPCV ESM RFC,,,7,7.07,0.07,199.2000,2.463380,1.89,ss,,8,10,Acceptable,,#REF!,,0.5680,4.2500,1,0.5617
+.50 Cal,15398,1570,9/16/2015,MPCV ESM RA ,,,7,6.95,-0.05,199.0000,2.462260,3.97,al,,8,10,Acceptable,,#REF!,,0.5670,6.0000,1,0.5617
+.50 Cal,15496,1569,9/15/2015,MPCV ESM RFC,,,7,7.08,0.08,199.2000,2.435770,1.89,ss,,8,10,Unacceptable,,#REF!,,0.5660,7.2500,1,0.5617
+.50 Cal,15391-C,1568,9/14/2015,MPCV ESM RFC,,,7,7.08,0.08,199.0000,2.401370,4.78,Nylon,,8,10,Acceptable,,#REF!,,0.5660,5.2500,1,0.5617
+.50 Cal,15391,1567,9/10/2015,MPCV ESM RFC,,,7,7.13,0.13,199.0000,2.394570,4.78,Nylon,,8,10,Unacceptable,,#REF!,,0.5660,4.5000,1,0.5617
+.50 Cal,15395,1566,9/9/2015,MPCV ESM RA ,,,7,7.03,0.03,199.0000,2.393090,4.78,Nylon,,8,10,,,#REF!,,0.5650,7.0000,1,0.5617
+.50 Cal,CAL,1565,9/3/2015,CLS,,,7,7.04,0.04,199.0000,2.386500,4.75,Nylon,,8,10,Acceptable,,#REF!,,0.5645,5.7500,1,0.5617
+.50 Cal,CAL,1564,9/2/2015,CLS,,,7,7.10,0.10,198.5000,2.371700,4.75,Nylon,,8,10,Acceptable,,#REF!,,0.5640,5.0000,1,0.5617
+.50 Cal,CAL,1563,8/31/2015,CLS,,,7,7.15,0.15,201.0000,2.380000,4.37,Nylon,,8,10,Unacceptable,,#REF!,,5.6350,5.5000,1,0.5617
+.50 Cal,CAL,1562,8/27/2015,CLS,,,7,7.02,0.02,201.0000,2.366500,5.56,Nylon,,8,10,Acceptable,,#REF!,,0.5630,5.0000,1,0.5617
+.50 Cal,CAL,1561,8/26/2015,CLS,,,7,6.86,-0.14,200.2000,2.358700,5.56,Nylon,,8,10,Acceptable,,#REF!,,0.5620,6.5000,1,0.5617
+.50 Cal,15351,1560,8/11/2015,ISS,,,5.5,5.36,-0.14,125.0000,2.558130,4.00,al,,5,10,Unacceptable,,#REF!,,0.5840,4.0000,1,0.581
+.50 Cal,CAL,1559,8/6/2015,CLS,,,7,7.11,0.11,208.0000,2.544800,3.57,Nylon,,5,10,Unacceptable,,#REF!,,0.5835,3.5000,1,0.581
+.50 Cal,CAL,1558,8/5/2015,CLS,,,7,6.75,-0.25,203.5000,2.562700,3.57,Nylon,,5,10,Unacceptable,,#REF!,,0.5825,4.7500,1,0.581
+.50 Cal,15391,1557,8/3/2015,MPCV ESM RFC,,,7,7.16,0.16,200.2000,2.359090,4.37,Nylon,,8,10,Unacceptable,,#REF!,,0.5600,4.2500,1,0.551
+.50 Cal,CAL,1556,7/29/2015,CLS,,,7,7.13,0.13,200.5000,2.321200,5.56,Nylon,,8,10,Acceptable,,#REF!,,0.5590,5.7500,1,0.551
+.50 Cal,CAL,1555,7/28/2015,CLS,,,7,7.16,0.16,200.5000,2.349300,5.56,Nylon,,8,10,Acceptable,,#REF!,,0.5580,5.5000,1,0.551
+.50 Cal,CAL,1554,7/14/2015,CLS,,,7,7.06,0.06,200.5000,2.320600,5.56,Nylon,,8,10,Unacceptable,,#REF!,,0.5575,5.5000,1,0.551
+.50 Cal,CAL,1553,7/8/2015,CLS,,,7,7.08,0.08,200.5000,2.311700,5.56,Nylon,,8,10,Unacceptable,,#REF!,,0.5565,4.3750,1,0.551
+.50 Cal,15386,1552,7/7/2015,MPCV ESM ESA,,,7,7.10,0.10,201.2000,2.465460,4.70,al,,8,10,Acceptable,,#REF!,,0.5565,4.0000,1,0.551
+.50 Cal,CAL,1551,7/6/2015,CLS,,,7,7.09,0.09,200.0000,2.348100,5.56,Nylon,,8,10,Unacceptable,,#REF!,,0.5560,4.1250,1,0.551
+.50 Cal,15367,1550,7/1/2015,MPCV ESM,,,7,7.01,0.01,200.5000,2.378320,4.50,al,,8,10,Acceptable,,#REF!,,0.5560,4.7500,1,0.551
+.50 Cal,15364,1549,6/18/2015,MPCV CMA,,,7,7.00,0.00,201.2000,2.448750,6.90,al,,12,10,Acceptable,,#REF!,,0.5330,6.2500,1,0.522
+.50 Cal,15271B,1548,6/15/2015,ISS,,,7,7.10,0.10,200.0000,2.221860,4.70,al,,12,10,Acceptable,,#REF!,,0.5320,5.7500,1,0.522
+.50 Cal,15271,1547,6/12/2015,ISS,,,7,7.08,0.08,200.0000,2.224710,4.70,al,,12,10,Unacceptable,,#REF!,,0.5320,4.7500,1,0.522
+.50 Cal,15270,1546,6/11/2015,ISS,,,7,6.99,-0.01,198.5000,2.162900,2.50,ss,,12,10,Unacceptable,,#REF!,,0.5300,9.2500,1,0.522
+.50 Cal,15319,1545,6/9/2015,MPCV ESM,,,7,6.39,-0.61,198.5000,2.197550,4.70,al,,12,10,Unacceptable,,#REF!,,0.5290,6.2500,1,0.522
+.50 Cal,15239,1544,6/4/2015,MPCV CMA,,,7,6.96,-0.04,200.0000,2.359010,6.50,al,,12,10,Acceptable,,#REF!,,0.5265,7.7500,1,0.522
+.50 Cal,15324,1543,6/3/2015,MPCV ESM,,,7,6.82,-0.18,198.5000,2.257070,6.71,Nylon,,12,10,Unacceptable,,#REF!,,0.5265,5.7500,1,0.522
+.50 Cal,15318B,1542,6/1/2015,MPCV ESM,,,7,6.89,-0.11,198.0000,2.092440,4.09,Nylon,,12,10,Unacceptable,,#REF!,,0.5265,5.2500,1,0.522
+.50 Cal,15323,1541,5/29/2015,MPCV ESM,,,7,7.03,0.03,198.5000,2.176650,4.70,al,,12,10,Acceptable,,#REF!,,0.5265,5.2500,1,0.522
+.50 Cal,15318,1540,5/28/2015,MPCV ESM,,,7,7.02,0.02,198.5000,2.128280,4.09,Nylon,,12,10,Unacceptable,,#REF!,,0.5250,6.2500,1,0.522
+.50 Cal,15316,1539,5/27/2015,MPCV ESM,,,7,6.89,-0.11,196.0000,2.083150,4.78,Nylon,,12,10,Acceptable,,#REF!,,0.5240,6.0000,1,0.522
+.50 Cal,15024,1538,5/12/2015,ISS,,,7,7.06,0.06,198.5000,2.152020,4.70,al,,12,10,Acceptable,,#REF!,,0.5235,4.0000,1,0.522
+.50 Cal,15190B,1537,4/23/2015,MPCV ESM,,,7,6.70,-0.30,189.9000,2.050710,4.76,Nylon,,12,10,Unacceptable,,#REF!,,0.5225,8.5000,1,0.522
+.50 Cal,15190,1536,4/22/2015,MPCV ESM,,,7,7.30,0.30,198.0000,2.080900,4.46,Nylon,,10,10,Unacceptable,,#REF!,,0.5565,4.0000,1,0.551
+.50 Cal,15022,1535,4/16/2015,ISS,,,7,7.11,0.11,196.5000,2.383170,2.50,ss,,10,10,Acceptable,,#REF!,,0.5560,4.0000,1,0.551
+.50 Cal,15023,1534,4/15/2015,ISS,,,7,7.11,0.11,198.0000,2.409230,4.70,al,,10,10,Acceptable,,#REF!,,0.5560,3.7500,1,0.551
+.50 Cal,15021,1533,3/17/2015,ISS,,,7,7.04,0.04,198.0000,2.405820,4.70,al,,10,10,Acceptable,,#REF!,,0.5560,3.5000,1,0.551
+.50 Cal,15020,1532,3/16/2015,ISS,,,7,7.08,0.08,196.5000,2.371700,2.50,ss,,10,10,Acceptable,,#REF!,,0.5560,3.5000,1,0.551
+.50 Cal,EDU-CS-5,1531,3/10/2015,CLS,,,7,6.98,-0.02,198.0000,2.484800,5.56,al,,10,10,Acceptable,,#REF!,,0.5560,3.5000,1,0.551
+.50 Cal,15019,1530,3/4/2015,ISS,,,7,7.11,0.11,198.0000,2.385080,3.00,ss,,10,10,Acceptable,,#REF!,,0.5555,4.5000,1,0.551
+.50 Cal,15018,1529,2/26/2015,ISS,,,7,7.06,0.06,198.0000,2.404960,4.70,al,,10,10,Unacceptable,,#REF!,,0.5550,4.5000,1,0.551
+.50 Cal,15017,1528,2/25/2015,ISS,,,7,7.12,0.12,200.0000,2.384580,4.70,al,,10,10,Acceptable,,#REF!,,0.5550,3.2500,1,0.551
+.50 Cal,15016,1527,2/24/2015,ISS,,,7,7.14,0.14,198.5000,2.303360,5.16,Nylon,,10,10,Acceptable,,#REF!,,0.5550,3.5000,1,0.551
+.50 Cal,15009,1526,2/23/2015,ISS,,,7,6.99,-0.01,203.1000,2.739170,5.16,ss,,10,10,Acceptable,,#REF!,,0.5545,3.5000,1,0.551
+.50 Cal,15008,1525,2/19/2015,ISS,,,7,7.01,0.01,198.0000,2.284980,5.60,Nylon,,10,10,Acceptable,,#REF!,,0.5540,4.0000,1,0.551
+.50 Cal,15007,1524,2/18/2015,ISS,,,7,7.10,0.10,199.0000,2.340350,4.20,al,,10,10,Acceptable,,#REF!,,0.5540,3.2500,1,0.551
+.50 Cal,15006,1523,2/17/2015,ISS,,,7,7.13,0.13,201.0000,2.383170,5.00,al,,10,10,Acceptable,,#REF!,,0.5540,3.2500,1,0.551
+.50 Cal,15005,1522,2/12/2015,ISS,,,7,7.08,0.08,201.0000,2.382400,4.50,al,,10,10,Acceptable,,#REF!,,0.5535,3.5000,1,0.551
+.50 Cal,CAL,1521,2/11/2015,CLS,,,7,7.06,0.06,202.0000,2.309300,4.00,al,,10,10,Acceptable,,#REF!,,0.5525,4.5000,1,0.551
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
