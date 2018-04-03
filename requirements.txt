@@ -1,0 +1,7 @@
+Flask
+Flask-RESTful
+numpy
+uwsgi
+pickle
+os
+pandas
