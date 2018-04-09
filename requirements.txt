@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 Flask
 Flask-RESTful
 numpy
@@ -12,4 +12,3 @@ numpy
 uwsgi
 os
 pandas
->>>>>>> 2d1fa9c5784cad3832092c754284674dee229563
